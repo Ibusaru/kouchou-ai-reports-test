@@ -1,0 +1,2300 @@
+1:"$Sreact.fragment"
+2:I[16501,["771","static/chunks/771-6df7383af9cb22cb.js","732","static/chunks/732-1930f1f7bd6746a5.js","13","static/chunks/13-f12e2db1f59fda05.js","355","static/chunks/355-f98f115f8c6f56c6.js","177","static/chunks/app/layout-0a969c4cbb7e098e.js"],"Provider"]
+3:I[9766,[],""]
+4:I[98924,[],""]
+5:I[58923,["771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","335","static/chunks/app/%5Bslug%5D/error-0d4b6919983e5735.js"],"default"]
+6:I[52619,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],""]
+7:I[54921,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Button"]
+9:I[24431,[],"OutletBoundary"]
+b:I[15278,[],"AsyncMetadataOutlet"]
+d:I[24431,[],"ViewportBoundary"]
+f:I[24431,[],"MetadataBoundary"]
+10:"$Sreact.suspense"
+12:I[57150,[],""]
+:HL["/kouchou-ai-reports/_next/static/css/a63443551c7d7d9f.css","style"]
+0:{"P":null,"b":"ZPoyP_28rjPo667-MjegT","p":"/kouchou-ai-reports","c":["","826b5c86-2a66-4972-a514-d2c45460cb05",""],"i":false,"f":[[["",{"children":[["slug","826b5c86-2a66-4972-a514-d2c45460cb05","d"],{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kouchou-ai-reports/_next/static/css/a63443551c7d7d9f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"suppressHydrationWarning":true,"lang":"ja","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=BIZ+UDPGothic&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"icon","href":"/kouchou-ai-reports/meta/icon.png","sizes":"any"}],false]}],["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}]]}],{"children":[["slug","826b5c86-2a66-4972-a514-d2c45460cb05","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","p",null,{"children":"ページが見つかりませんでした"}],["$","$L6",null,{"href":"/","children":["$","$L7",null,{"children":"トップに戻る"}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L8",null,["$","$L9",null,{"children":["$La",["$","$Lb",null,{"promise":"$@c"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Ld",null,{"children":"$Le"}],null],["$","$Lf",null,{"children":["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":"$L11"}]}]}]]}],false]],"m":"$undefined","G":["$12",[]],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+13:I[67733,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Header"]
+14:I[99347,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Box"]
+15:I[55756,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Heading"]
+16:I[48409,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Text"]
+17:I[92091,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Icon"]
+18:I[6026,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"ClientContainer"]
+19:T194c,import concurrent.futures
+import json
+import logging
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+from services.parse_json_list import parse_extraction_response
+from utils import update_progress
+
+COMMA_AND_SPACE_AND_RIGHT_BRACKET = re.compile(r",\s*(\])")
+
+
+class ExtractionResponse(BaseModel):
+    extractedOpinionList: list[str] = Field(..., description="抽出した意見のリスト")
+
+
+def _validate_property_columns(property_columns: list[str], comments: pd.DataFrame) -> None:
+    if not all(property in comments.columns for property in property_columns):
+        raise ValueError(f"Properties {property_columns} not found in comments. Columns are {comments.columns}")
+
+
+def extraction(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/args.csv"
+    model = config["extraction"]["model"]
+    prompt = config["extraction"]["prompt"]
+    workers = config["extraction"]["workers"]
+    limit = config["extraction"]["limit"]
+    property_columns = config["extraction"]["properties"]
+
+    if "provider" not in config:
+        raise RuntimeError("provider is not set")
+    provider = config["provider"]
+
+    # カラム名だけを読み込み、必要なカラムが含まれているか確認する
+    comments = pd.read_csv(f"inputs/{config['input']}.csv", nrows=0)
+    _validate_property_columns(property_columns, comments)
+    # エラーが出なかった場合、すべての行を読み込む
+    comments = pd.read_csv(
+        f"inputs/{config['input']}.csv", usecols=["comment-id", "comment-body"] + config["extraction"]["properties"]
+    )
+    comment_ids = (comments["comment-id"].values)[:limit]
+    comments.set_index("comment-id", inplace=True)
+    results = pd.DataFrame()
+    update_progress(config, total=len(comment_ids))
+
+    argument_map = {}
+    relation_rows = []
+
+    for i in tqdm(range(0, len(comment_ids), workers)):
+        batch = comment_ids[i : i + workers]
+        batch_inputs = [comments.loc[id]["comment-body"] for id in batch]
+        batch_results = extract_batch(
+            batch_inputs, prompt, model, workers, provider, config.get("local_llm_address"), config
+        )
+
+        for comment_id, extracted_args in zip(batch, batch_results, strict=False):
+            for j, arg in enumerate(extracted_args):
+                if arg not in argument_map:
+                    # argumentテーブルに追加
+                    arg_id = f"A{comment_id}_{j}"
+                    argument = arg
+                    argument_map[arg] = {
+                        "arg-id": arg_id,
+                        "argument": argument,
+                    }
+                else:
+                    arg_id = argument_map[arg]["arg-id"]
+
+                # relationテーブルにcommentとargの関係を追加
+                relation_row = {
+                    "arg-id": arg_id,
+                    "comment-id": comment_id,
+                }
+                relation_rows.append(relation_row)
+
+        update_progress(config, incr=len(batch))
+
+    # DataFrame化
+    results = pd.DataFrame(argument_map.values())
+    relation_df = pd.DataFrame(relation_rows)
+
+    if results.empty:
+        raise RuntimeError("result is empty, maybe bad prompt")
+
+    results.to_csv(path, index=False)
+    # comment-idとarg-idの関係を保存
+    relation_df.to_csv(f"outputs/{dataset}/relations.csv", index=False)
+
+
+logging.basicConfig(level=logging.DEBUG)
+
+
+def extract_batch(batch, prompt, model, workers, provider="openai", local_llm_address=None, config=None):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+        futures_with_index = [
+            (i, executor.submit(extract_arguments, input, prompt, model, provider, local_llm_address))
+            for i, input in enumerate(batch)
+        ]
+
+        done, not_done = concurrent.futures.wait([f for _, f in futures_with_index], timeout=30)
+        results = [[] for _ in range(len(batch))]
+        total_token_input = 0
+        total_token_output = 0
+        total_token_usage = 0
+
+        for _, future in futures_with_index:
+            if future in not_done and not future.cancelled():
+                future.cancel()
+
+        for i, future in futures_with_index:
+            if future in done:
+                try:
+                    result = future.result()
+                    if isinstance(result, tuple) and len(result) == 4:
+                        items, token_input, token_output, token_total = result
+                        results[i] = items
+                        total_token_input += token_input
+                        total_token_output += token_output
+                        total_token_usage += token_total
+                    else:
+                        results[i] = result
+                except Exception as e:
+                    logging.error(f"Task {future} failed with error: {e}")
+                    results[i] = []
+
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + total_token_usage
+            config["token_usage_input"] = config.get("token_usage_input", 0) + total_token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + total_token_output
+            print(
+                f"Extraction batch: input={total_token_input}, output={total_token_output}, total={total_token_usage} tokens"
+            )
+
+        return results
+
+
+def extract_arguments(input, prompt, model, provider="openai", local_llm_address=None):
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            is_json=False,
+            json_schema=ExtractionResponse,
+            provider=provider,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        items = parse_extraction_response(response)
+        items = list(filter(None, items))  # omit empty strings
+        return items, token_input, token_output, token_total
+    except json.decoder.JSONDecodeError as e:
+        print("JSON error:", e)
+        print("Input was:", input)
+        print("Response was:", response)
+        print("Silently giving up on trying to generate valid list.")
+        return []
+1a:T1149,"""Cluster the arguments using UMAP + HDBSCAN and GPT-4."""
+
+from importlib import import_module
+
+import numpy as np
+import pandas as pd
+import scipy.cluster.hierarchy as sch
+from sklearn.cluster import KMeans
+
+
+def hierarchical_clustering(config):
+    UMAP = import_module("umap").UMAP
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_clusters.csv"
+    arguments_df = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings_df = pd.read_pickle(f"outputs/{dataset}/embeddings.pkl")
+    embeddings_array = np.asarray(embeddings_df["embedding"].values.tolist())
+    cluster_nums = config["hierarchical_clustering"]["cluster_nums"]
+
+    n_samples = embeddings_array.shape[0]
+    # デフォルト設定は15
+    default_n_neighbors = 15
+
+    # テスト等サンプルが少なすぎる場合、n_neighborsの設定値を下げる
+    if n_samples <= default_n_neighbors:
+        n_neighbors = max(2, n_samples - 1)  # 最低2以上
+    else:
+        n_neighbors = default_n_neighbors
+
+    umap_model = UMAP(random_state=42, n_components=2, n_neighbors=n_neighbors)
+    # TODO 詳細エラーメッセージを加える
+    # 以下のエラーの場合、おそらく元の意見件数が少なすぎることが原因
+    # TypeError: Cannot use scipy.linalg.eigh for sparse A with k >= N. Use scipy.linalg.eigh(A.toarray()) or reduce k.
+    umap_embeds = umap_model.fit_transform(embeddings_array)
+
+    cluster_results = hierarchical_clustering_embeddings(
+        umap_embeds=umap_embeds,
+        cluster_nums=cluster_nums,
+    )
+    result_df = pd.DataFrame(
+        {
+            "arg-id": arguments_df["arg-id"],
+            "argument": arguments_df["argument"],
+            "x": umap_embeds[:, 0],
+            "y": umap_embeds[:, 1],
+        }
+    )
+
+    for cluster_level, final_labels in enumerate(cluster_results.values(), start=1):
+        result_df[f"cluster-level-{cluster_level}-id"] = [f"{cluster_level}_{label}" for label in final_labels]
+
+    result_df.to_csv(path, index=False)
+
+
+def generate_cluster_count_list(min_clusters: int, max_clusters: int):
+    cluster_counts = []
+    current = min_clusters
+    cluster_counts.append(current)
+
+    if min_clusters == max_clusters:
+        return cluster_counts
+
+    while True:
+        next_double = current * 2
+        next_triple = current * 3
+
+        if next_double >= max_clusters:
+            if cluster_counts[-1] != max_clusters:
+                cluster_counts.append(max_clusters)
+            break
+
+        # 次の倍はまだ max_clusters に収まるが、3倍だと超える
+        # -> (次の倍は細かすぎるので)スキップして max_clusters に飛ぶ
+        if next_triple > max_clusters:
+            cluster_counts.append(max_clusters)
+            break
+
+        cluster_counts.append(next_double)
+        current = next_double
+
+    return cluster_counts
+
+
+def merge_clusters_with_hierarchy(
+    cluster_centers: np.ndarray,
+    kmeans_labels: np.ndarray,
+    umap_array: np.ndarray,
+    n_cluster_cut: int,
+):
+    Z = sch.linkage(cluster_centers, method="ward")
+    cluster_labels_merged = sch.fcluster(Z, t=n_cluster_cut, criterion="maxclust")
+
+    n_samples = umap_array.shape[0]
+    final_labels = np.zeros(n_samples, dtype=int)
+
+    for i in range(n_samples):
+        original_label = kmeans_labels[i]
+        final_labels[i] = cluster_labels_merged[original_label]
+
+    return final_labels
+
+
+def hierarchical_clustering_embeddings(
+    umap_embeds,
+    cluster_nums,
+):
+    # 最大分割数でクラスタリングを実施
+    print("start initial clustering")
+    initial_cluster_num = cluster_nums[-1]
+    kmeans_model = KMeans(n_clusters=initial_cluster_num, random_state=42)
+    kmeans_model.fit(umap_embeds)
+    print("end initial clustering")
+
+    results = {}
+    print("start hierarchical clustering")
+    cluster_nums.sort()
+    print(cluster_nums)
+    for n_cluster_cut in cluster_nums[:-1]:
+        print("n_cluster_cut: ", n_cluster_cut)
+        final_labels = merge_clusters_with_hierarchy(
+            cluster_centers=kmeans_model.cluster_centers_,
+            kmeans_labels=kmeans_model.labels_,
+            umap_array=umap_embeds,
+            n_cluster_cut=n_cluster_cut,
+        )
+        results[n_cluster_cut] = final_labels
+
+    results[initial_cluster_num] = kmeans_model.labels_
+    print("end hierarchical clustering")
+
+    return results
+1b:T1c36,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from functools import partial
+from typing import TypedDict
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class LabellingResult(TypedDict):
+    """各クラスタのラベリング結果を表す型"""
+
+    cluster_id: str  # クラスタのID
+    label: str  # クラスタのラベル名
+    description: str  # クラスタの説明文
+
+
+def hierarchical_initial_labelling(config: dict) -> None:
+    """階層的クラスタリングの初期ラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_initial_labelling: 初期ラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_initial_labels.csv"
+    clusters_argument_df = pd.read_csv(f"outputs/{dataset}/hierarchical_clusters.csv")
+
+    cluster_id_columns = [col for col in clusters_argument_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_id_column = cluster_id_columns[-1]
+    sampling_num = config["hierarchical_initial_labelling"]["sampling_num"]
+    initial_labelling_prompt = config["hierarchical_initial_labelling"]["prompt"]
+    model = config["hierarchical_initial_labelling"]["model"]
+    workers = config["hierarchical_initial_labelling"]["workers"]
+
+    # トークン使用量を追跡するための変数を初期化
+    config["total_token_usage"] = config.get("total_token_usage", 0)
+
+    initial_label_df = initial_labelling(
+        initial_labelling_prompt,
+        clusters_argument_df,
+        sampling_num,
+        model,
+        workers,
+        config["provider"],
+        config.get("local_llm_address"),
+        config,  # configを渡して、トークン使用量を累積できるようにする
+    )
+    print("start initial labelling")
+    initial_clusters_argument_df = clusters_argument_df.merge(
+        initial_label_df,
+        left_on=initial_cluster_id_column,
+        right_on="cluster_id",
+        how="left",
+    ).rename(
+        columns={
+            "label": f"{initial_cluster_id_column.replace('-id', '')}-label",
+            "description": f"{initial_cluster_id_column.replace('-id', '')}-description",
+        }
+    )
+    print("end initial labelling")
+    initial_clusters_argument_df.to_csv(path, index=False)
+
+
+def initial_labelling(
+    prompt: str,
+    clusters_df: pd.DataFrame,
+    sampling_num: int,
+    model: str,
+    workers: int,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> pd.DataFrame:
+    """各クラスタに対して初期ラベリングを実行する
+
+    Args:
+        prompt: LLMへのプロンプト
+        clusters_df: クラスタリング結果のDataFrame
+        sampling_num: 各クラスタからサンプリングする意見の数
+        model: 使用するLLMモデル名
+        workers: 並列処理のワーカー数
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        各クラスタのラベリング結果を含むDataFrame
+    """
+    cluster_columns = [col for col in clusters_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_column = cluster_columns[-1]
+    cluster_ids = clusters_df[initial_cluster_column].unique()
+    process_func = partial(
+        process_initial_labelling,
+        df=clusters_df,
+        prompt=prompt,
+        sampling_num=sampling_num,
+        target_column=initial_cluster_column,
+        model=model,
+        provider=provider,
+        local_llm_address=local_llm_address,
+        config=config,  # configを渡す
+    )
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        results = list(executor.map(process_func, cluster_ids))
+    return pd.DataFrame(results)
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_initial_labelling(
+    cluster_id: str,
+    df: pd.DataFrame,
+    prompt: str,
+    sampling_num: int,
+    target_column: str,
+    model: str,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> LabellingResult:
+    """個別のクラスタに対してラベリングを実行する
+
+    Args:
+        cluster_id: 処理対象のクラスタID
+        df: クラスタリング結果のDataFrame
+        prompt: LLMへのプロンプト
+        sampling_num: サンプリングする意見の数
+        target_column: クラスタIDが格納されている列名
+        model: 使用するLLMモデル名
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        クラスタのラベリング結果
+    """
+    cluster_data = df[df[target_column] == cluster_id]
+    sampling_num = min(sampling_num, len(cluster_data))
+    cluster = cluster_data.sample(sampling_num)
+    input = "\n".join(cluster["argument"].values)
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            provider=provider,
+            json_schema=LabellingFromat,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        # トークン使用量を累積（configが渡されている場合）
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+            config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label=response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            description=response_json.get("description", "エラーで解説が取得できませんでした"),
+        )
+    except Exception as e:
+        print(e)
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label="エラーでラベル名が取得できませんでした",
+            description="エラーで解説が取得できませんでした",
+        )
+1c:T337b,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from dataclasses import dataclass
+from functools import partial
+
+import numpy as np
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+
+
+@dataclass
+class ClusterColumns:
+    """同一階層のクラスター関連のカラム名を管理するクラス"""
+
+    id: str
+    label: str
+    description: str
+
+    @classmethod
+    def from_id_column(cls, id_column: str) -> "ClusterColumns":
+        """ID列名から関連するカラム名を生成"""
+        return cls(
+            id=id_column,
+            label=id_column.replace("-id", "-label"),
+            description=id_column.replace("-id", "-description"),
+        )
+
+
+@dataclass
+class ClusterValues:
+    """対象クラスタのlabel/descriptionを管理するクラス"""
+
+    label: str
+    description: str
+
+    def to_prompt_text(self) -> str:
+        return f"- {self.label}: {self.description}"
+
+
+def hierarchical_merge_labelling(config: dict) -> None:
+    """階層的クラスタリングの結果に対してマージラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_merge_labelling: マージラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    merge_path = f"outputs/{dataset}/hierarchical_merge_labels.csv"
+    clusters_df = pd.read_csv(f"outputs/{dataset}/hierarchical_initial_labels.csv")
+
+    cluster_id_columns: list[str] = _filter_id_columns(clusters_df.columns)
+    # ボトムクラスタのラベル・説明とクラスタid付きの各argumentを入力し、各階層のクラスタラベル・説明を生成し、argumentに付けたdfを作成
+    merge_result_df = merge_labelling(
+        clusters_df=clusters_df,
+        cluster_id_columns=sorted(cluster_id_columns, reverse=True),
+        config=config,
+    )
+    # 上記のdfから各クラスタのlevel, id, label, description, valueを取得してdfを作成
+    melted_df = melt_cluster_data(merge_result_df)
+    # 上記のdfに親子関係を追加
+    parent_child_df = _build_parent_child_mapping(merge_result_df, cluster_id_columns)
+    melted_df = melted_df.merge(parent_child_df, on=["level", "id"], how="left")
+    density_df = calculate_cluster_density(melted_df, config)
+    density_df.to_csv(merge_path, index=False)
+
+
+def _build_parent_child_mapping(df: pd.DataFrame, cluster_id_columns: list[str]):
+    """クラスタ間の親子関係をマッピングする
+
+    Args:
+        df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+
+    Returns:
+        親子関係のマッピング情報を含むDataFrame
+    """
+    results = []
+    top_cluster_column = cluster_id_columns[0]
+    top_cluster_values = df[top_cluster_column].unique()
+    for c in top_cluster_values:
+        results.append(
+            {
+                "level": 1,
+                "id": c,
+                "parent": "0",  # aggregationで追加する全体クラスタのid
+            }
+        )
+
+    for idx in range(len(cluster_id_columns) - 1):
+        current_column = cluster_id_columns[idx]
+        children_column = cluster_id_columns[idx + 1]
+        current_level = current_column.replace("-id", "").replace("cluster-level-", "")
+        # 現在のレベルのクラスタid
+        current_cluster_values = df[current_column].unique()
+        for current_id in current_cluster_values:
+            children_ids = df.loc[df[current_column] == current_id, children_column].unique()
+            for child_id in children_ids:
+                results.append(
+                    {
+                        "level": int(current_level) + 1,
+                        "id": child_id,
+                        "parent": current_id,
+                    }
+                )
+    return pd.DataFrame(results)
+
+
+def _filter_id_columns(columns: list[str]) -> list[str]:
+    """クラスタIDのカラム名をフィルタリングする
+
+    Args:
+        columns: 全カラム名のリスト
+
+    Returns:
+        クラスタIDのカラム名のリスト
+    """
+    return [col for col in columns if col.startswith("cluster-level-") and col.endswith("-id")]
+
+
+def melt_cluster_data(df: pd.DataFrame) -> pd.DataFrame:
+    """クラスタデータを行形式に変換する
+
+    cluster-level-n-(id|label|description) を行形式 (level, id, label, description, value) にまとめる。
+    [cluster-level-n-id, cluster-level-n-label, cluster-level-n-description] を [level, id, label, description, value(件数)] に変換する。
+
+    Args:
+        df: クラスタリング結果のDataFrame
+
+    Returns:
+        行形式に変換されたDataFrame
+    """
+    id_columns: list[str] = _filter_id_columns(df.columns)
+    levels: set[int] = {int(col.replace("cluster-level-", "").replace("-id", "")) for col in id_columns}
+    all_rows: list[dict] = []
+
+    # levelごとに各クラスタの出現件数を集計・縦持ちにする
+    for level in levels:
+        cluster_columns = ClusterColumns.from_id_column(f"cluster-level-{level}-id")
+        # クラスタidごとの件数集計
+        level_count_df = df.groupby(cluster_columns.id).size().reset_index(name="value")
+
+        level_unique_val_df = df[
+            [cluster_columns.id, cluster_columns.label, cluster_columns.description]
+        ].drop_duplicates()
+        level_unique_val_df = level_unique_val_df.merge(level_count_df, on=cluster_columns.id, how="left")
+        level_unique_vals = [
+            {
+                "level": level,
+                "id": row[cluster_columns.id],
+                "label": row[cluster_columns.label],
+                "description": row[cluster_columns.description],
+                "value": row["value"],
+            }
+            for _, row in level_unique_val_df.iterrows()
+        ]
+        all_rows.extend(level_unique_vals)
+    return pd.DataFrame(all_rows)
+
+
+def merge_labelling(clusters_df: pd.DataFrame, cluster_id_columns: list[str], config) -> pd.DataFrame:
+    """階層的なクラスタのマージラベリングを実行する
+
+    Args:
+        clusters_df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含むDataFrame
+    """
+    for idx in tqdm(range(len(cluster_id_columns) - 1)):
+        previous_columns = ClusterColumns.from_id_column(cluster_id_columns[idx])
+        current_columns = ClusterColumns.from_id_column(cluster_id_columns[idx + 1])
+
+        process_fn = partial(
+            process_merge_labelling,
+            result_df=clusters_df,
+            current_columns=current_columns,
+            previous_columns=previous_columns,
+            config=config,
+        )
+
+        current_cluster_ids = sorted(clusters_df[current_columns.id].unique())
+        with ThreadPoolExecutor(max_workers=config["hierarchical_merge_labelling"]["workers"]) as executor:
+            responses = list(
+                tqdm(
+                    executor.map(process_fn, current_cluster_ids),
+                    total=len(current_cluster_ids),
+                )
+            )
+
+        current_result_df = pd.DataFrame(responses)
+        clusters_df = clusters_df.merge(current_result_df, on=[current_columns.id])
+    return clusters_df
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_merge_labelling(
+    target_cluster_id: str,
+    result_df: pd.DataFrame,
+    current_columns: ClusterColumns,
+    previous_columns: ClusterColumns,
+    config,
+):
+    """個別のクラスタに対してマージラベリングを実行する
+
+    Args:
+        target_cluster_id: 処理対象のクラスタID
+        result_df: クラスタリング結果のDataFrame
+        current_columns: 現在のレベルのカラム情報
+        previous_columns: 前のレベルのカラム情報
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含む辞書
+    """
+
+    def filter_previous_values(df: pd.DataFrame, previous_columns: ClusterColumns) -> list[ClusterValues]:
+        """前のレベルのクラスタ情報を取得する"""
+        previous_records = df[df[current_columns.id] == target_cluster_id][
+            [previous_columns.label, previous_columns.description]
+        ].drop_duplicates()
+        previous_values = [
+            ClusterValues(
+                label=row[previous_columns.label],
+                description=row[previous_columns.description],
+            )
+            for _, row in previous_records.iterrows()
+        ]
+        return previous_values
+
+    previous_values = filter_previous_values(result_df, previous_columns)
+    if len(previous_values) == 1:
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: previous_values[0].label,
+            current_columns.description: previous_values[0].description,
+        }
+    elif len(previous_values) == 0:
+        raise ValueError(f"クラスタ {target_cluster_id} には前のレベルのクラスタが存在しません。")
+
+    current_cluster_data = result_df[result_df[current_columns.id] == target_cluster_id]
+    sampling_num = min(
+        config["hierarchical_merge_labelling"]["sampling_num"],
+        len(current_cluster_data),
+    )
+    sampled_data = current_cluster_data.sample(sampling_num)
+    sampled_argument_text = "\n".join(sampled_data["argument"].values)
+    cluster_text = "\n".join([value.to_prompt_text() for value in previous_values])
+    messages = [
+        {"role": "system", "content": config["hierarchical_merge_labelling"]["prompt"]},
+        {
+            "role": "user",
+            "content": "クラスタラベル\n" + cluster_text + "\n" + "クラスタの意見\n" + sampled_argument_text,
+        },
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=config["hierarchical_merge_labelling"]["model"],
+            json_schema=LabellingFromat,
+            provider=config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+        config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+        config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+        print(f"Merge labelling: input={token_input}, output={token_output}, total={token_total} tokens")
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            current_columns.description: response_json.get("description", "エラーで解説が取得できませんでした"),
+        }
+    except Exception as e:
+        print(f"エラーが発生しました: {e}")
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: "エラーでラベル名が取得できませんでした",
+            current_columns.description: "エラーで解説が取得できませんでした",
+        }
+
+
+def calculate_cluster_density(melted_df: pd.DataFrame, config: dict):
+    """クラスタ内の密度計算"""
+    hierarchical_cluster_df = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_clusters.csv")
+
+    densities = []
+    for level, c_id in zip(melted_df["level"], melted_df["id"], strict=False):
+        cluster_embeds = hierarchical_cluster_df[hierarchical_cluster_df[f"cluster-level-{level}-id"] == c_id][
+            ["x", "y"]
+        ].values
+        density = calculate_density(cluster_embeds)
+        densities.append(density)
+
+    # 密度のランクを計算
+    melted_df["density"] = densities
+    melted_df["density_rank"] = melted_df.groupby("level")["density"].rank(ascending=False, method="first")
+    melted_df["density_rank_percentile"] = melted_df.groupby("level")["density_rank"].transform(lambda x: x / len(x))
+    return melted_df
+
+
+def calculate_density(embeds: np.ndarray):
+    """平均距離に基づいて密度を計算"""
+    center = np.mean(embeds, axis=0)
+    distances = np.linalg.norm(embeds - center, axis=1)
+    avg_distance = np.mean(distances)
+    density = 1 / (avg_distance + 1e-10)
+    return density
+1d:Ta82,"""Create summaries for the clusters."""
+
+import json
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class OverviewResponse(BaseModel):
+    summary: str = Field(..., description="クラスターの全体的な要約")
+
+
+def hierarchical_overview(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_overview.txt"
+
+    hierarchical_label_df = pd.read_csv(f"outputs/{dataset}/hierarchical_merge_labels.csv")
+
+    prompt = config["hierarchical_overview"]["prompt"]
+    model = config["hierarchical_overview"]["model"]
+
+    # TODO: level1で固定にしているが、設定で変えられるようにする
+    target_level = 1
+    target_records = hierarchical_label_df[hierarchical_label_df["level"] == target_level]
+    ids = target_records["id"].to_list()
+    labels = target_records["label"].to_list()
+    descriptions = target_records["description"].to_list()
+    target_records.set_index("id", inplace=True)
+
+    input_text = ""
+    for i, _ in enumerate(ids):
+        input_text += f"# Cluster {i}/{len(ids)}: {labels[i]}\n\n"
+        input_text += descriptions[i] + "\n\n"
+
+    messages = [{"role": "system", "content": prompt}, {"role": "user", "content": input_text}]
+    response_text, token_input, token_output, token_total = request_to_chat_ai(
+        messages=messages,
+        model=model,
+        provider=config["provider"],
+        local_llm_address=config.get("local_llm_address"),
+        user_api_key=os.getenv("USER_API_KEY"),
+        json_schema=OverviewResponse,
+    )
+
+    # トークン使用量を累積
+    config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+    config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+    config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+    print(f"Hierarchical overview: input={token_input}, output={token_output}, total={token_total} tokens")
+
+    try:
+        # structured outputとしてパースできるなら処理する
+        if isinstance(response_text, dict):
+            parsed_response = response_text
+        else:
+            parsed_response = json.loads(response_text)
+
+        with open(path, "w") as file:
+            file.write(parsed_response["summary"])
+
+    except Exception:
+        # thinkタグが出力されるReasoningモデル用に、thinkタグを除去する
+        thinking_removed = re.sub(
+            r"<think\b[^>]*>.*?</think>",
+            "",
+            response_text,
+            flags=re.DOTALL,
+        )
+
+        with open(path, "w") as file:
+            file.write(thinking_removed)
+1e:T3f38,"""Generate a convenient JSON output file."""
+
+import json
+from collections import defaultdict
+from pathlib import Path
+from typing import Any, TypedDict
+
+import numpy as np
+import pandas as pd
+
+ROOT_DIR = Path(__file__).parent.parent.parent.parent
+CONFIG_DIR = ROOT_DIR / "scatter" / "pipeline" / "configs"
+PIPELINE_DIR = ROOT_DIR / "broadlistening" / "pipeline"
+
+
+def json_serialize_numpy(obj: Any) -> Any:
+    """
+    Recursively convert NumPy data types to native Python types for JSON serialization.
+
+    Args:
+        obj: Any Python object which might contain NumPy data types
+
+    Returns:
+        The same object structure with NumPy types converted to Python native types
+    """
+    if isinstance(obj, np.integer):
+        return int(obj)
+    elif isinstance(obj, np.floating):
+        return float(obj)
+    elif isinstance(obj, np.ndarray):
+        return obj.tolist()
+    elif isinstance(obj, dict):
+        return {k: json_serialize_numpy(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [json_serialize_numpy(item) for item in obj]
+    elif isinstance(obj, tuple):
+        return tuple(json_serialize_numpy(item) for item in obj)
+    else:
+        return obj
+
+
+class Argument(TypedDict):
+    arg_id: str
+    argument: str
+    comment_id: str
+    x: float
+    y: float
+    p: float
+    cluster_ids: list[str]
+    attributes: dict[str, str] | None
+    url: str | None
+
+
+class Cluster(TypedDict):
+    level: int
+    id: str
+    label: str
+    takeaway: str
+    value: int
+    parent: str
+    density_rank_percentile: float | None
+
+
+def hierarchical_aggregation(config) -> bool:
+    try:
+        path = f"outputs/{config['output_dir']}/hierarchical_result.json"
+        results = {
+            "arguments": [],
+            "clusters": [],
+            "comments": {},
+            "propertyMap": {},
+            "translations": {},
+            "overview": "",
+            "config": config,
+        }
+
+        arguments = pd.read_csv(f"outputs/{config['output_dir']}/args.csv")
+        arguments.set_index("arg-id", inplace=True)
+        arg_num = len(arguments)
+        relation_df = pd.read_csv(f"outputs/{config['output_dir']}/relations.csv")
+        comments = pd.read_csv(f"inputs/{config['input']}.csv")
+        clusters = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_clusters.csv")
+        labels = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_merge_labels.csv")
+
+        hidden_properties_map: dict[str, list[str]] = config["hierarchical_aggregation"]["hidden_properties"]
+
+        results["arguments"] = _build_arguments(clusters, comments, relation_df, config)
+        results["clusters"] = _build_cluster_value(labels, arg_num)
+
+        # results["comments"] = _build_comments_value(
+        #     comments, arguments, hidden_properties_map
+        # )
+        results["comment_num"] = len(comments)
+        results["translations"] = _build_translations(config)
+        # 属性情報のカラムは、元データに対して指定したカラムとclassificationするカテゴリを合わせたもの
+        results["propertyMap"] = _build_property_map(arguments, comments, hidden_properties_map, config)
+
+        with open(f"outputs/{config['output_dir']}/hierarchical_overview.txt") as f:
+            overview = f.read()
+        print("overview")
+        print(overview)
+        results["overview"] = overview
+
+        # Convert non-serializable NumPy types to native Python types
+        results = json_serialize_numpy(results)
+
+        with open(path, "w") as file:
+            json.dump(results, file, indent=2, ensure_ascii=False)
+        # TODO: サンプリングロジックを実装したいが、現状は全件抽出
+        create_custom_intro(config)
+        if config["is_pubcom"]:
+            add_original_comments(labels, arguments, relation_df, clusters, config)
+        return True
+    except Exception as e:
+        print("error")
+        print(e)
+        return False
+
+
+def create_custom_intro(config):
+    dataset = config["output_dir"]
+    args_path = PIPELINE_DIR / f"outputs/{dataset}/args.csv"
+    comments = pd.read_csv(PIPELINE_DIR / f"inputs/{config['input']}.csv")
+    result_path = PIPELINE_DIR / f"outputs/{dataset}/hierarchical_result.json"
+
+    input_count = len(comments)
+    args_count = len(pd.read_csv(args_path))
+    processed_num = min(input_count, config["extraction"]["limit"])
+
+    print(f"Input count: {input_count}")
+    print(f"Args count: {args_count}")
+
+    # LLMプロバイダーとモデル名の判定
+    def get_llm_provider_display():
+        # configからプロバイダー情報を取得（優先）
+        provider = config.get("provider", "openai")
+        model = config.get("model", "unknown")
+
+        # プロバイダー名をマッピング
+        provider_names = {
+            "openai": "OpenAI API",
+            "azure": "Azure OpenAI API",
+            "openrouter": "OpenRouter API",
+            "local": "Local LLM",
+        }
+
+        provider_name = provider_names.get(provider, f"{provider} API")
+        return f"{provider_name} ({model})"
+
+    llm_provider = get_llm_provider_display()
+
+    base_custom_intro = """{intro}
+分析対象となったデータの件数は{processed_num}件で、これらのデータに対して{llm_provider}を用いて{args_count}件の意見（議論）を抽出し、クラスタリングを行った。
+"""
+
+    intro = config["intro"]
+    custom_intro = base_custom_intro.format(
+        intro=intro, processed_num=processed_num, args_count=args_count, llm_provider=llm_provider
+    )
+
+    with open(result_path) as f:
+        result = json.load(f)
+    result["config"]["intro"] = custom_intro
+    with open(result_path, "w") as f:
+        json.dump(result, f, indent=2, ensure_ascii=False)
+
+
+def add_original_comments(labels, arguments, relation_df, clusters, config):
+    # 大カテゴリ（cluster-level-1）に該当するラベルだけ抽出
+    labels_lv1 = labels[labels["level"] == 1][["id", "label"]].rename(
+        columns={"id": "cluster-level-1-id", "label": "category_label"}
+    )
+
+    # arguments と clusters をマージ（カテゴリ情報付与）
+    merged = arguments.merge(clusters[["arg-id", "cluster-level-1-id"]], on="arg-id").merge(
+        labels_lv1, on="cluster-level-1-id", how="left"
+    )
+
+    # relation_df と結合
+    merged = merged.merge(relation_df, on="arg-id", how="left")
+
+    # 元コメント取得
+    comments = pd.read_csv(PIPELINE_DIR / f"inputs/{config['input']}.csv")
+    comments["comment-id"] = comments["comment-id"].astype(str)
+    merged["comment-id"] = merged["comment-id"].astype(str)
+
+    # 元コメント本文などとマージ
+    final_df = merged.merge(comments, on="comment-id", how="left")
+
+    # 必要カラムのみ整形
+    final_cols = ["comment-id", "comment-body", "arg-id", "argument", "cluster-level-1-id", "category_label"]
+
+    # 基本カラム
+    for col in ["x", "y", "source", "url"]:
+        if col in comments.columns:
+            final_cols.append(col)
+
+    # 属性カラムを追加
+    attribute_columns = []
+    for col in comments.columns:
+        # attributeプレフィックスが付いたカラムを探す
+        if col.startswith("attribute_"):
+            attribute_columns.append(col)
+            final_cols.append(col)
+
+    print(f"属性カラム検出: {attribute_columns}")
+
+    # 必要なカラムだけ選択
+    final_df = final_df[final_cols]
+    final_df = final_df.rename(
+        columns={
+            "cluster-level-1-id": "category_id",
+            "category_label": "category",
+            "arg-id": "arg_id",
+            "argument": "argument",
+            "comment-body": "original-comment",
+        }
+    )
+
+    # 保存
+    final_df.to_csv(PIPELINE_DIR / f"outputs/{config['output_dir']}/final_result_with_comments.csv", index=False)
+
+
+def _build_arguments(
+    clusters: pd.DataFrame, comments: pd.DataFrame, relation_df: pd.DataFrame, config: dict
+) -> list[Argument]:
+    """
+    Build the arguments list including attribute information from original comments
+
+    Args:
+        clusters: DataFrame containing cluster information for each argument
+        comments: DataFrame containing original comments with attribute columns
+        relation_df: DataFrame relating arguments to original comments
+        config: Configuration dictionary containing enable_source_link setting
+    """
+    cluster_columns = [col for col in clusters.columns if col.startswith("cluster-level-") and "id" in col]
+
+    # Prepare for merging with original comments to get attributes
+    comments_copy = comments.copy()
+    comments_copy["comment-id"] = comments_copy["comment-id"].astype(str)
+
+    # Get argument to comment mapping
+    arg_comment_map = {}
+    if "comment-id" in relation_df.columns:
+        relation_df["comment-id"] = relation_df["comment-id"].astype(str)
+        arg_comment_map = dict(zip(relation_df["arg-id"], relation_df["comment-id"], strict=False))
+
+    # Find attribute columns in comments dataframe
+    attribute_columns = [col for col in comments.columns if col.startswith("attribute_")]
+    print(f"属性カラム検出: {attribute_columns}")
+
+    arguments: list[Argument] = []
+    for _, row in clusters.iterrows():
+        cluster_ids = ["0"]
+        for cluster_column in cluster_columns:
+            cluster_ids.append(str(row[cluster_column]))  # Convert to string to ensure serializable
+
+        # Create base argument
+        argument: Argument = {
+            "arg_id": str(row["arg-id"]),  # Convert to string to ensure serializable
+            "argument": str(row["argument"]),
+            "x": float(row["x"]),  # Convert to native float
+            "y": float(row["y"]),  # Convert to native float
+            "p": 0,  # NOTE: 一旦全部0でいれる
+            "cluster_ids": cluster_ids,
+            "attributes": None,
+            "url": None,
+        }
+
+        # Add attributes and URL if available
+        if row["arg-id"] in arg_comment_map:
+            comment_id = arg_comment_map[row["arg-id"]]
+            comment_rows = comments_copy[comments_copy["comment-id"] == comment_id]
+
+            if not comment_rows.empty:
+                comment_row = comment_rows.iloc[0]
+
+                # Add URL if available and enabled
+                if config.get("enable_source_link", False) and "url" in comment_row and comment_row["url"] is not None:
+                    argument["url"] = str(comment_row["url"])
+
+                # Add attributes if available
+                if attribute_columns:
+                    attributes = {}
+                    for attr_col in attribute_columns:
+                        # Remove "attribute_" prefix for cleaner attribute names
+                        attr_name = attr_col[len("attribute_") :]
+                        # Convert potential numpy types to Python native types
+                        attr_value = comment_row.get(attr_col, None)
+                        if attr_value is not None:
+                            if isinstance(attr_value, np.integer):
+                                attr_value = int(attr_value)
+                            elif isinstance(attr_value, np.floating):
+                                attr_value = float(attr_value)
+                            elif isinstance(attr_value, np.ndarray):
+                                attr_value = attr_value.tolist()
+                        attributes[attr_name] = attr_value
+
+                    # Only add non-empty attributes
+                    if any(v is not None for v in attributes.values()):
+                        argument["attributes"] = attributes
+
+        arguments.append(argument)
+    return arguments
+
+
+def _build_cluster_value(melted_labels: pd.DataFrame, total_num: int) -> list[Cluster]:
+    results: list[Cluster] = [
+        Cluster(
+            level=0,
+            id="0",
+            label="全体",
+            takeaway="",
+            value=int(total_num),  # Convert to native int
+            parent="",
+            density_rank_percentile=0,
+        )
+    ]
+
+    for _, melted_label in melted_labels.iterrows():
+        # Convert potential NumPy types to native Python types
+        level = (
+            int(melted_label["level"]) if isinstance(melted_label["level"], int | np.integer) else melted_label["level"]
+        )
+        cluster_id = str(melted_label["id"])
+        label = str(melted_label["label"])
+        takeaway = str(melted_label["description"])
+        value = (
+            int(melted_label["value"]) if isinstance(melted_label["value"], int | np.integer) else melted_label["value"]
+        )
+        parent = str(melted_label.get("parent", "全体"))
+
+        # Handle density_rank_percentile which might be None or a numeric value
+        density_rank = melted_label.get("density_rank_percentile")
+        if density_rank is not None:
+            if isinstance(density_rank, float | np.floating):
+                density_rank = float(density_rank)
+            elif isinstance(density_rank, int | np.integer):
+                density_rank = int(density_rank)
+
+        cluster_value = Cluster(
+            level=level,
+            id=cluster_id,
+            label=label,
+            takeaway=takeaway,
+            value=value,
+            parent=parent,
+            density_rank_percentile=density_rank,
+        )
+        results.append(cluster_value)
+    return results
+
+
+def _build_comments_value(
+    comments: pd.DataFrame,
+    arguments: pd.DataFrame,
+    hidden_properties_map: dict[str, list[str]],
+):
+    comment_dict: dict[str, dict[str, str]] = {}
+    useful_comment_ids = set(arguments["comment-id"].values)
+    for _, row in comments.iterrows():
+        id = row["comment-id"]
+        if id in useful_comment_ids:
+            res = {"comment": row["comment-body"]}
+            should_skip = any(row[prop] in hidden_values for prop, hidden_values in hidden_properties_map.items())
+            if should_skip:
+                continue
+            comment_dict[str(id)] = res
+
+    return comment_dict
+
+
+def _build_translations(config):
+    languages = list(config.get("translation", {}).get("languages", []))
+    if len(languages) > 0:
+        with open(PIPELINE_DIR / f"outputs/{config['output_dir']}/translations.json") as f:
+            translations = f.read()
+        return json.loads(translations)
+    return {}
+
+
+def _build_property_map(
+    arguments: pd.DataFrame, comments: pd.DataFrame, hidden_properties_map: dict[str, list[str]], config: dict
+) -> dict[str, dict[str, str]]:
+    property_columns = list(hidden_properties_map.keys()) + list(config["extraction"]["categories"].keys())
+    property_map = defaultdict(dict)
+
+    # 指定された property_columns が arguments に存在するかチェック
+    missing_cols = [col for col in property_columns if col not in arguments.columns]
+    if missing_cols:
+        raise ValueError(
+            f"指定されたカラム {missing_cols} が args.csv に存在しません。"
+            "設定ファイルaggregation / hidden_propertiesから該当カラムを取り除いてください。"
+        )
+
+    for prop in property_columns:
+        for arg_id, row in arguments.iterrows():
+            # LLMによるcategory classificationがうまく行かず、NaNの場合はNoneにする
+            value = row[prop] if not pd.isna(row[prop]) else None
+
+            # Convert NumPy types to Python native types
+            if value is not None:
+                if isinstance(value, np.integer):
+                    value = int(value)
+                elif isinstance(value, np.floating):
+                    value = float(value)
+                elif isinstance(value, np.ndarray):
+                    value = value.tolist()
+                else:
+                    # Convert any other types to string to ensure serialization
+                    try:
+                        value = str(value)
+                    except Exception as e:
+                        print(f"Error converting value to string: {e}")
+                        value = None
+
+            # Make sure arg_id is string
+            str_arg_id = str(arg_id)
+            property_map[prop][str_arg_id] = value
+
+    return property_map
+1f:T458,import os
+
+import pandas as pd
+from tqdm import tqdm
+
+from services.llm import request_to_embed
+
+
+def embedding(config):
+    model = config["embedding"]["model"]
+    is_embedded_at_local = config["is_embedded_at_local"]
+    # print("start embedding")
+    # print(f"embedding model: {model}, is_embedded_at_local: {is_embedded_at_local}")
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/embeddings.pkl"
+    arguments = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings = []
+    batch_size = 1000
+    for i in tqdm(range(0, len(arguments), batch_size)):
+        args = arguments["argument"].tolist()[i : i + batch_size]
+        embeds = request_to_embed(
+            args,
+            model,
+            is_embedded_at_local,
+            config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        embeddings.extend(embeds)
+    df = pd.DataFrame([{"arg-id": arguments.iloc[i]["arg-id"], "embedding": e} for i, e in enumerate(embeddings)])
+    df.to_pickle(path)
+20:T194c,import concurrent.futures
+import json
+import logging
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+from services.parse_json_list import parse_extraction_response
+from utils import update_progress
+
+COMMA_AND_SPACE_AND_RIGHT_BRACKET = re.compile(r",\s*(\])")
+
+
+class ExtractionResponse(BaseModel):
+    extractedOpinionList: list[str] = Field(..., description="抽出した意見のリスト")
+
+
+def _validate_property_columns(property_columns: list[str], comments: pd.DataFrame) -> None:
+    if not all(property in comments.columns for property in property_columns):
+        raise ValueError(f"Properties {property_columns} not found in comments. Columns are {comments.columns}")
+
+
+def extraction(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/args.csv"
+    model = config["extraction"]["model"]
+    prompt = config["extraction"]["prompt"]
+    workers = config["extraction"]["workers"]
+    limit = config["extraction"]["limit"]
+    property_columns = config["extraction"]["properties"]
+
+    if "provider" not in config:
+        raise RuntimeError("provider is not set")
+    provider = config["provider"]
+
+    # カラム名だけを読み込み、必要なカラムが含まれているか確認する
+    comments = pd.read_csv(f"inputs/{config['input']}.csv", nrows=0)
+    _validate_property_columns(property_columns, comments)
+    # エラーが出なかった場合、すべての行を読み込む
+    comments = pd.read_csv(
+        f"inputs/{config['input']}.csv", usecols=["comment-id", "comment-body"] + config["extraction"]["properties"]
+    )
+    comment_ids = (comments["comment-id"].values)[:limit]
+    comments.set_index("comment-id", inplace=True)
+    results = pd.DataFrame()
+    update_progress(config, total=len(comment_ids))
+
+    argument_map = {}
+    relation_rows = []
+
+    for i in tqdm(range(0, len(comment_ids), workers)):
+        batch = comment_ids[i : i + workers]
+        batch_inputs = [comments.loc[id]["comment-body"] for id in batch]
+        batch_results = extract_batch(
+            batch_inputs, prompt, model, workers, provider, config.get("local_llm_address"), config
+        )
+
+        for comment_id, extracted_args in zip(batch, batch_results, strict=False):
+            for j, arg in enumerate(extracted_args):
+                if arg not in argument_map:
+                    # argumentテーブルに追加
+                    arg_id = f"A{comment_id}_{j}"
+                    argument = arg
+                    argument_map[arg] = {
+                        "arg-id": arg_id,
+                        "argument": argument,
+                    }
+                else:
+                    arg_id = argument_map[arg]["arg-id"]
+
+                # relationテーブルにcommentとargの関係を追加
+                relation_row = {
+                    "arg-id": arg_id,
+                    "comment-id": comment_id,
+                }
+                relation_rows.append(relation_row)
+
+        update_progress(config, incr=len(batch))
+
+    # DataFrame化
+    results = pd.DataFrame(argument_map.values())
+    relation_df = pd.DataFrame(relation_rows)
+
+    if results.empty:
+        raise RuntimeError("result is empty, maybe bad prompt")
+
+    results.to_csv(path, index=False)
+    # comment-idとarg-idの関係を保存
+    relation_df.to_csv(f"outputs/{dataset}/relations.csv", index=False)
+
+
+logging.basicConfig(level=logging.DEBUG)
+
+
+def extract_batch(batch, prompt, model, workers, provider="openai", local_llm_address=None, config=None):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as executor:
+        futures_with_index = [
+            (i, executor.submit(extract_arguments, input, prompt, model, provider, local_llm_address))
+            for i, input in enumerate(batch)
+        ]
+
+        done, not_done = concurrent.futures.wait([f for _, f in futures_with_index], timeout=30)
+        results = [[] for _ in range(len(batch))]
+        total_token_input = 0
+        total_token_output = 0
+        total_token_usage = 0
+
+        for _, future in futures_with_index:
+            if future in not_done and not future.cancelled():
+                future.cancel()
+
+        for i, future in futures_with_index:
+            if future in done:
+                try:
+                    result = future.result()
+                    if isinstance(result, tuple) and len(result) == 4:
+                        items, token_input, token_output, token_total = result
+                        results[i] = items
+                        total_token_input += token_input
+                        total_token_output += token_output
+                        total_token_usage += token_total
+                    else:
+                        results[i] = result
+                except Exception as e:
+                    logging.error(f"Task {future} failed with error: {e}")
+                    results[i] = []
+
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + total_token_usage
+            config["token_usage_input"] = config.get("token_usage_input", 0) + total_token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + total_token_output
+            print(
+                f"Extraction batch: input={total_token_input}, output={total_token_output}, total={total_token_usage} tokens"
+            )
+
+        return results
+
+
+def extract_arguments(input, prompt, model, provider="openai", local_llm_address=None):
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            is_json=False,
+            json_schema=ExtractionResponse,
+            provider=provider,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        items = parse_extraction_response(response)
+        items = list(filter(None, items))  # omit empty strings
+        return items, token_input, token_output, token_total
+    except json.decoder.JSONDecodeError as e:
+        print("JSON error:", e)
+        print("Input was:", input)
+        print("Response was:", response)
+        print("Silently giving up on trying to generate valid list.")
+        return []
+21:T458,import os
+
+import pandas as pd
+from tqdm import tqdm
+
+from services.llm import request_to_embed
+
+
+def embedding(config):
+    model = config["embedding"]["model"]
+    is_embedded_at_local = config["is_embedded_at_local"]
+    # print("start embedding")
+    # print(f"embedding model: {model}, is_embedded_at_local: {is_embedded_at_local}")
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/embeddings.pkl"
+    arguments = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings = []
+    batch_size = 1000
+    for i in tqdm(range(0, len(arguments), batch_size)):
+        args = arguments["argument"].tolist()[i : i + batch_size]
+        embeds = request_to_embed(
+            args,
+            model,
+            is_embedded_at_local,
+            config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+        embeddings.extend(embeds)
+    df = pd.DataFrame([{"arg-id": arguments.iloc[i]["arg-id"], "embedding": e} for i, e in enumerate(embeddings)])
+    df.to_pickle(path)
+22:T1149,"""Cluster the arguments using UMAP + HDBSCAN and GPT-4."""
+
+from importlib import import_module
+
+import numpy as np
+import pandas as pd
+import scipy.cluster.hierarchy as sch
+from sklearn.cluster import KMeans
+
+
+def hierarchical_clustering(config):
+    UMAP = import_module("umap").UMAP
+
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_clusters.csv"
+    arguments_df = pd.read_csv(f"outputs/{dataset}/args.csv", usecols=["arg-id", "argument"])
+    embeddings_df = pd.read_pickle(f"outputs/{dataset}/embeddings.pkl")
+    embeddings_array = np.asarray(embeddings_df["embedding"].values.tolist())
+    cluster_nums = config["hierarchical_clustering"]["cluster_nums"]
+
+    n_samples = embeddings_array.shape[0]
+    # デフォルト設定は15
+    default_n_neighbors = 15
+
+    # テスト等サンプルが少なすぎる場合、n_neighborsの設定値を下げる
+    if n_samples <= default_n_neighbors:
+        n_neighbors = max(2, n_samples - 1)  # 最低2以上
+    else:
+        n_neighbors = default_n_neighbors
+
+    umap_model = UMAP(random_state=42, n_components=2, n_neighbors=n_neighbors)
+    # TODO 詳細エラーメッセージを加える
+    # 以下のエラーの場合、おそらく元の意見件数が少なすぎることが原因
+    # TypeError: Cannot use scipy.linalg.eigh for sparse A with k >= N. Use scipy.linalg.eigh(A.toarray()) or reduce k.
+    umap_embeds = umap_model.fit_transform(embeddings_array)
+
+    cluster_results = hierarchical_clustering_embeddings(
+        umap_embeds=umap_embeds,
+        cluster_nums=cluster_nums,
+    )
+    result_df = pd.DataFrame(
+        {
+            "arg-id": arguments_df["arg-id"],
+            "argument": arguments_df["argument"],
+            "x": umap_embeds[:, 0],
+            "y": umap_embeds[:, 1],
+        }
+    )
+
+    for cluster_level, final_labels in enumerate(cluster_results.values(), start=1):
+        result_df[f"cluster-level-{cluster_level}-id"] = [f"{cluster_level}_{label}" for label in final_labels]
+
+    result_df.to_csv(path, index=False)
+
+
+def generate_cluster_count_list(min_clusters: int, max_clusters: int):
+    cluster_counts = []
+    current = min_clusters
+    cluster_counts.append(current)
+
+    if min_clusters == max_clusters:
+        return cluster_counts
+
+    while True:
+        next_double = current * 2
+        next_triple = current * 3
+
+        if next_double >= max_clusters:
+            if cluster_counts[-1] != max_clusters:
+                cluster_counts.append(max_clusters)
+            break
+
+        # 次の倍はまだ max_clusters に収まるが、3倍だと超える
+        # -> (次の倍は細かすぎるので)スキップして max_clusters に飛ぶ
+        if next_triple > max_clusters:
+            cluster_counts.append(max_clusters)
+            break
+
+        cluster_counts.append(next_double)
+        current = next_double
+
+    return cluster_counts
+
+
+def merge_clusters_with_hierarchy(
+    cluster_centers: np.ndarray,
+    kmeans_labels: np.ndarray,
+    umap_array: np.ndarray,
+    n_cluster_cut: int,
+):
+    Z = sch.linkage(cluster_centers, method="ward")
+    cluster_labels_merged = sch.fcluster(Z, t=n_cluster_cut, criterion="maxclust")
+
+    n_samples = umap_array.shape[0]
+    final_labels = np.zeros(n_samples, dtype=int)
+
+    for i in range(n_samples):
+        original_label = kmeans_labels[i]
+        final_labels[i] = cluster_labels_merged[original_label]
+
+    return final_labels
+
+
+def hierarchical_clustering_embeddings(
+    umap_embeds,
+    cluster_nums,
+):
+    # 最大分割数でクラスタリングを実施
+    print("start initial clustering")
+    initial_cluster_num = cluster_nums[-1]
+    kmeans_model = KMeans(n_clusters=initial_cluster_num, random_state=42)
+    kmeans_model.fit(umap_embeds)
+    print("end initial clustering")
+
+    results = {}
+    print("start hierarchical clustering")
+    cluster_nums.sort()
+    print(cluster_nums)
+    for n_cluster_cut in cluster_nums[:-1]:
+        print("n_cluster_cut: ", n_cluster_cut)
+        final_labels = merge_clusters_with_hierarchy(
+            cluster_centers=kmeans_model.cluster_centers_,
+            kmeans_labels=kmeans_model.labels_,
+            umap_array=umap_embeds,
+            n_cluster_cut=n_cluster_cut,
+        )
+        results[n_cluster_cut] = final_labels
+
+    results[initial_cluster_num] = kmeans_model.labels_
+    print("end hierarchical clustering")
+
+    return results
+23:T1c36,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from functools import partial
+from typing import TypedDict
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class LabellingResult(TypedDict):
+    """各クラスタのラベリング結果を表す型"""
+
+    cluster_id: str  # クラスタのID
+    label: str  # クラスタのラベル名
+    description: str  # クラスタの説明文
+
+
+def hierarchical_initial_labelling(config: dict) -> None:
+    """階層的クラスタリングの初期ラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_initial_labelling: 初期ラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_initial_labels.csv"
+    clusters_argument_df = pd.read_csv(f"outputs/{dataset}/hierarchical_clusters.csv")
+
+    cluster_id_columns = [col for col in clusters_argument_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_id_column = cluster_id_columns[-1]
+    sampling_num = config["hierarchical_initial_labelling"]["sampling_num"]
+    initial_labelling_prompt = config["hierarchical_initial_labelling"]["prompt"]
+    model = config["hierarchical_initial_labelling"]["model"]
+    workers = config["hierarchical_initial_labelling"]["workers"]
+
+    # トークン使用量を追跡するための変数を初期化
+    config["total_token_usage"] = config.get("total_token_usage", 0)
+
+    initial_label_df = initial_labelling(
+        initial_labelling_prompt,
+        clusters_argument_df,
+        sampling_num,
+        model,
+        workers,
+        config["provider"],
+        config.get("local_llm_address"),
+        config,  # configを渡して、トークン使用量を累積できるようにする
+    )
+    print("start initial labelling")
+    initial_clusters_argument_df = clusters_argument_df.merge(
+        initial_label_df,
+        left_on=initial_cluster_id_column,
+        right_on="cluster_id",
+        how="left",
+    ).rename(
+        columns={
+            "label": f"{initial_cluster_id_column.replace('-id', '')}-label",
+            "description": f"{initial_cluster_id_column.replace('-id', '')}-description",
+        }
+    )
+    print("end initial labelling")
+    initial_clusters_argument_df.to_csv(path, index=False)
+
+
+def initial_labelling(
+    prompt: str,
+    clusters_df: pd.DataFrame,
+    sampling_num: int,
+    model: str,
+    workers: int,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> pd.DataFrame:
+    """各クラスタに対して初期ラベリングを実行する
+
+    Args:
+        prompt: LLMへのプロンプト
+        clusters_df: クラスタリング結果のDataFrame
+        sampling_num: 各クラスタからサンプリングする意見の数
+        model: 使用するLLMモデル名
+        workers: 並列処理のワーカー数
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        各クラスタのラベリング結果を含むDataFrame
+    """
+    cluster_columns = [col for col in clusters_df.columns if col.startswith("cluster-level-")]
+    initial_cluster_column = cluster_columns[-1]
+    cluster_ids = clusters_df[initial_cluster_column].unique()
+    process_func = partial(
+        process_initial_labelling,
+        df=clusters_df,
+        prompt=prompt,
+        sampling_num=sampling_num,
+        target_column=initial_cluster_column,
+        model=model,
+        provider=provider,
+        local_llm_address=local_llm_address,
+        config=config,  # configを渡す
+    )
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        results = list(executor.map(process_func, cluster_ids))
+    return pd.DataFrame(results)
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_initial_labelling(
+    cluster_id: str,
+    df: pd.DataFrame,
+    prompt: str,
+    sampling_num: int,
+    target_column: str,
+    model: str,
+    provider: str = "openai",
+    local_llm_address: str | None = None,
+    config: dict | None = None,  # configを追加
+) -> LabellingResult:
+    """個別のクラスタに対してラベリングを実行する
+
+    Args:
+        cluster_id: 処理対象のクラスタID
+        df: クラスタリング結果のDataFrame
+        prompt: LLMへのプロンプト
+        sampling_num: サンプリングする意見の数
+        target_column: クラスタIDが格納されている列名
+        model: 使用するLLMモデル名
+        provider: LLMプロバイダー
+        local_llm_address: ローカルLLMのアドレス
+        config: 設定情報を含む辞書（トークン使用量の累積に使用）
+
+    Returns:
+        クラスタのラベリング結果
+    """
+    cluster_data = df[df[target_column] == cluster_id]
+    sampling_num = min(sampling_num, len(cluster_data))
+    cluster = cluster_data.sample(sampling_num)
+    input = "\n".join(cluster["argument"].values)
+    messages = [
+        {"role": "system", "content": prompt},
+        {"role": "user", "content": input},
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=model,
+            provider=provider,
+            json_schema=LabellingFromat,
+            local_llm_address=local_llm_address,
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        # トークン使用量を累積（configが渡されている場合）
+        if config is not None:
+            config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+            config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+            config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label=response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            description=response_json.get("description", "エラーで解説が取得できませんでした"),
+        )
+    except Exception as e:
+        print(e)
+        return LabellingResult(
+            cluster_id=cluster_id,
+            label="エラーでラベル名が取得できませんでした",
+            description="エラーで解説が取得できませんでした",
+        )
+24:T337b,import json
+import os
+from concurrent.futures import ThreadPoolExecutor
+from dataclasses import dataclass
+from functools import partial
+
+import numpy as np
+import pandas as pd
+from pydantic import BaseModel, Field
+from tqdm import tqdm
+
+from services.llm import request_to_chat_ai
+
+
+@dataclass
+class ClusterColumns:
+    """同一階層のクラスター関連のカラム名を管理するクラス"""
+
+    id: str
+    label: str
+    description: str
+
+    @classmethod
+    def from_id_column(cls, id_column: str) -> "ClusterColumns":
+        """ID列名から関連するカラム名を生成"""
+        return cls(
+            id=id_column,
+            label=id_column.replace("-id", "-label"),
+            description=id_column.replace("-id", "-description"),
+        )
+
+
+@dataclass
+class ClusterValues:
+    """対象クラスタのlabel/descriptionを管理するクラス"""
+
+    label: str
+    description: str
+
+    def to_prompt_text(self) -> str:
+        return f"- {self.label}: {self.description}"
+
+
+def hierarchical_merge_labelling(config: dict) -> None:
+    """階層的クラスタリングの結果に対してマージラベリングを実行する
+
+    Args:
+        config: 設定情報を含む辞書
+            - output_dir: 出力ディレクトリ名
+            - hierarchical_merge_labelling: マージラベリングの設定
+                - sampling_num: サンプリング数
+                - prompt: LLMへのプロンプト
+                - model: 使用するLLMモデル名
+                - workers: 並列処理のワーカー数
+            - provider: LLMプロバイダー
+    """
+    dataset = config["output_dir"]
+    merge_path = f"outputs/{dataset}/hierarchical_merge_labels.csv"
+    clusters_df = pd.read_csv(f"outputs/{dataset}/hierarchical_initial_labels.csv")
+
+    cluster_id_columns: list[str] = _filter_id_columns(clusters_df.columns)
+    # ボトムクラスタのラベル・説明とクラスタid付きの各argumentを入力し、各階層のクラスタラベル・説明を生成し、argumentに付けたdfを作成
+    merge_result_df = merge_labelling(
+        clusters_df=clusters_df,
+        cluster_id_columns=sorted(cluster_id_columns, reverse=True),
+        config=config,
+    )
+    # 上記のdfから各クラスタのlevel, id, label, description, valueを取得してdfを作成
+    melted_df = melt_cluster_data(merge_result_df)
+    # 上記のdfに親子関係を追加
+    parent_child_df = _build_parent_child_mapping(merge_result_df, cluster_id_columns)
+    melted_df = melted_df.merge(parent_child_df, on=["level", "id"], how="left")
+    density_df = calculate_cluster_density(melted_df, config)
+    density_df.to_csv(merge_path, index=False)
+
+
+def _build_parent_child_mapping(df: pd.DataFrame, cluster_id_columns: list[str]):
+    """クラスタ間の親子関係をマッピングする
+
+    Args:
+        df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+
+    Returns:
+        親子関係のマッピング情報を含むDataFrame
+    """
+    results = []
+    top_cluster_column = cluster_id_columns[0]
+    top_cluster_values = df[top_cluster_column].unique()
+    for c in top_cluster_values:
+        results.append(
+            {
+                "level": 1,
+                "id": c,
+                "parent": "0",  # aggregationで追加する全体クラスタのid
+            }
+        )
+
+    for idx in range(len(cluster_id_columns) - 1):
+        current_column = cluster_id_columns[idx]
+        children_column = cluster_id_columns[idx + 1]
+        current_level = current_column.replace("-id", "").replace("cluster-level-", "")
+        # 現在のレベルのクラスタid
+        current_cluster_values = df[current_column].unique()
+        for current_id in current_cluster_values:
+            children_ids = df.loc[df[current_column] == current_id, children_column].unique()
+            for child_id in children_ids:
+                results.append(
+                    {
+                        "level": int(current_level) + 1,
+                        "id": child_id,
+                        "parent": current_id,
+                    }
+                )
+    return pd.DataFrame(results)
+
+
+def _filter_id_columns(columns: list[str]) -> list[str]:
+    """クラスタIDのカラム名をフィルタリングする
+
+    Args:
+        columns: 全カラム名のリスト
+
+    Returns:
+        クラスタIDのカラム名のリスト
+    """
+    return [col for col in columns if col.startswith("cluster-level-") and col.endswith("-id")]
+
+
+def melt_cluster_data(df: pd.DataFrame) -> pd.DataFrame:
+    """クラスタデータを行形式に変換する
+
+    cluster-level-n-(id|label|description) を行形式 (level, id, label, description, value) にまとめる。
+    [cluster-level-n-id, cluster-level-n-label, cluster-level-n-description] を [level, id, label, description, value(件数)] に変換する。
+
+    Args:
+        df: クラスタリング結果のDataFrame
+
+    Returns:
+        行形式に変換されたDataFrame
+    """
+    id_columns: list[str] = _filter_id_columns(df.columns)
+    levels: set[int] = {int(col.replace("cluster-level-", "").replace("-id", "")) for col in id_columns}
+    all_rows: list[dict] = []
+
+    # levelごとに各クラスタの出現件数を集計・縦持ちにする
+    for level in levels:
+        cluster_columns = ClusterColumns.from_id_column(f"cluster-level-{level}-id")
+        # クラスタidごとの件数集計
+        level_count_df = df.groupby(cluster_columns.id).size().reset_index(name="value")
+
+        level_unique_val_df = df[
+            [cluster_columns.id, cluster_columns.label, cluster_columns.description]
+        ].drop_duplicates()
+        level_unique_val_df = level_unique_val_df.merge(level_count_df, on=cluster_columns.id, how="left")
+        level_unique_vals = [
+            {
+                "level": level,
+                "id": row[cluster_columns.id],
+                "label": row[cluster_columns.label],
+                "description": row[cluster_columns.description],
+                "value": row["value"],
+            }
+            for _, row in level_unique_val_df.iterrows()
+        ]
+        all_rows.extend(level_unique_vals)
+    return pd.DataFrame(all_rows)
+
+
+def merge_labelling(clusters_df: pd.DataFrame, cluster_id_columns: list[str], config) -> pd.DataFrame:
+    """階層的なクラスタのマージラベリングを実行する
+
+    Args:
+        clusters_df: クラスタリング結果のDataFrame
+        cluster_id_columns: クラスタIDのカラム名のリスト
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含むDataFrame
+    """
+    for idx in tqdm(range(len(cluster_id_columns) - 1)):
+        previous_columns = ClusterColumns.from_id_column(cluster_id_columns[idx])
+        current_columns = ClusterColumns.from_id_column(cluster_id_columns[idx + 1])
+
+        process_fn = partial(
+            process_merge_labelling,
+            result_df=clusters_df,
+            current_columns=current_columns,
+            previous_columns=previous_columns,
+            config=config,
+        )
+
+        current_cluster_ids = sorted(clusters_df[current_columns.id].unique())
+        with ThreadPoolExecutor(max_workers=config["hierarchical_merge_labelling"]["workers"]) as executor:
+            responses = list(
+                tqdm(
+                    executor.map(process_fn, current_cluster_ids),
+                    total=len(current_cluster_ids),
+                )
+            )
+
+        current_result_df = pd.DataFrame(responses)
+        clusters_df = clusters_df.merge(current_result_df, on=[current_columns.id])
+    return clusters_df
+
+
+class LabellingFromat(BaseModel):
+    """ラベリング結果のフォーマットを定義する"""
+
+    label: str = Field(..., description="クラスタのラベル名")
+    description: str = Field(..., description="クラスタの説明文")
+
+
+def process_merge_labelling(
+    target_cluster_id: str,
+    result_df: pd.DataFrame,
+    current_columns: ClusterColumns,
+    previous_columns: ClusterColumns,
+    config,
+):
+    """個別のクラスタに対してマージラベリングを実行する
+
+    Args:
+        target_cluster_id: 処理対象のクラスタID
+        result_df: クラスタリング結果のDataFrame
+        current_columns: 現在のレベルのカラム情報
+        previous_columns: 前のレベルのカラム情報
+        config: 設定情報を含む辞書
+
+    Returns:
+        マージラベリング結果を含む辞書
+    """
+
+    def filter_previous_values(df: pd.DataFrame, previous_columns: ClusterColumns) -> list[ClusterValues]:
+        """前のレベルのクラスタ情報を取得する"""
+        previous_records = df[df[current_columns.id] == target_cluster_id][
+            [previous_columns.label, previous_columns.description]
+        ].drop_duplicates()
+        previous_values = [
+            ClusterValues(
+                label=row[previous_columns.label],
+                description=row[previous_columns.description],
+            )
+            for _, row in previous_records.iterrows()
+        ]
+        return previous_values
+
+    previous_values = filter_previous_values(result_df, previous_columns)
+    if len(previous_values) == 1:
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: previous_values[0].label,
+            current_columns.description: previous_values[0].description,
+        }
+    elif len(previous_values) == 0:
+        raise ValueError(f"クラスタ {target_cluster_id} には前のレベルのクラスタが存在しません。")
+
+    current_cluster_data = result_df[result_df[current_columns.id] == target_cluster_id]
+    sampling_num = min(
+        config["hierarchical_merge_labelling"]["sampling_num"],
+        len(current_cluster_data),
+    )
+    sampled_data = current_cluster_data.sample(sampling_num)
+    sampled_argument_text = "\n".join(sampled_data["argument"].values)
+    cluster_text = "\n".join([value.to_prompt_text() for value in previous_values])
+    messages = [
+        {"role": "system", "content": config["hierarchical_merge_labelling"]["prompt"]},
+        {
+            "role": "user",
+            "content": "クラスタラベル\n" + cluster_text + "\n" + "クラスタの意見\n" + sampled_argument_text,
+        },
+    ]
+    try:
+        response_text, token_input, token_output, token_total = request_to_chat_ai(
+            messages=messages,
+            model=config["hierarchical_merge_labelling"]["model"],
+            json_schema=LabellingFromat,
+            provider=config["provider"],
+            local_llm_address=config.get("local_llm_address"),
+            user_api_key=os.getenv("USER_API_KEY"),
+        )
+
+        config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+        config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+        config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+        print(f"Merge labelling: input={token_input}, output={token_output}, total={token_total} tokens")
+
+        response_json = json.loads(response_text) if isinstance(response_text, str) else response_text
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: response_json.get("label", "エラーでラベル名が取得できませんでした"),
+            current_columns.description: response_json.get("description", "エラーで解説が取得できませんでした"),
+        }
+    except Exception as e:
+        print(f"エラーが発生しました: {e}")
+        return {
+            current_columns.id: target_cluster_id,
+            current_columns.label: "エラーでラベル名が取得できませんでした",
+            current_columns.description: "エラーで解説が取得できませんでした",
+        }
+
+
+def calculate_cluster_density(melted_df: pd.DataFrame, config: dict):
+    """クラスタ内の密度計算"""
+    hierarchical_cluster_df = pd.read_csv(f"outputs/{config['output_dir']}/hierarchical_clusters.csv")
+
+    densities = []
+    for level, c_id in zip(melted_df["level"], melted_df["id"], strict=False):
+        cluster_embeds = hierarchical_cluster_df[hierarchical_cluster_df[f"cluster-level-{level}-id"] == c_id][
+            ["x", "y"]
+        ].values
+        density = calculate_density(cluster_embeds)
+        densities.append(density)
+
+    # 密度のランクを計算
+    melted_df["density"] = densities
+    melted_df["density_rank"] = melted_df.groupby("level")["density"].rank(ascending=False, method="first")
+    melted_df["density_rank_percentile"] = melted_df.groupby("level")["density_rank"].transform(lambda x: x / len(x))
+    return melted_df
+
+
+def calculate_density(embeds: np.ndarray):
+    """平均距離に基づいて密度を計算"""
+    center = np.mean(embeds, axis=0)
+    distances = np.linalg.norm(embeds - center, axis=1)
+    avg_distance = np.mean(distances)
+    density = 1 / (avg_distance + 1e-10)
+    return density
+25:Ta82,"""Create summaries for the clusters."""
+
+import json
+import os
+import re
+
+import pandas as pd
+from pydantic import BaseModel, Field
+
+from services.llm import request_to_chat_ai
+
+
+class OverviewResponse(BaseModel):
+    summary: str = Field(..., description="クラスターの全体的な要約")
+
+
+def hierarchical_overview(config):
+    dataset = config["output_dir"]
+    path = f"outputs/{dataset}/hierarchical_overview.txt"
+
+    hierarchical_label_df = pd.read_csv(f"outputs/{dataset}/hierarchical_merge_labels.csv")
+
+    prompt = config["hierarchical_overview"]["prompt"]
+    model = config["hierarchical_overview"]["model"]
+
+    # TODO: level1で固定にしているが、設定で変えられるようにする
+    target_level = 1
+    target_records = hierarchical_label_df[hierarchical_label_df["level"] == target_level]
+    ids = target_records["id"].to_list()
+    labels = target_records["label"].to_list()
+    descriptions = target_records["description"].to_list()
+    target_records.set_index("id", inplace=True)
+
+    input_text = ""
+    for i, _ in enumerate(ids):
+        input_text += f"# Cluster {i}/{len(ids)}: {labels[i]}\n\n"
+        input_text += descriptions[i] + "\n\n"
+
+    messages = [{"role": "system", "content": prompt}, {"role": "user", "content": input_text}]
+    response_text, token_input, token_output, token_total = request_to_chat_ai(
+        messages=messages,
+        model=model,
+        provider=config["provider"],
+        local_llm_address=config.get("local_llm_address"),
+        user_api_key=os.getenv("USER_API_KEY"),
+        json_schema=OverviewResponse,
+    )
+
+    # トークン使用量を累積
+    config["total_token_usage"] = config.get("total_token_usage", 0) + token_total
+    config["token_usage_input"] = config.get("token_usage_input", 0) + token_input
+    config["token_usage_output"] = config.get("token_usage_output", 0) + token_output
+    print(f"Hierarchical overview: input={token_input}, output={token_output}, total={token_total} tokens")
+
+    try:
+        # structured outputとしてパースできるなら処理する
+        if isinstance(response_text, dict):
+            parsed_response = response_text
+        else:
+            parsed_response = json.loads(response_text)
+
+        with open(path, "w") as file:
+            file.write(parsed_response["summary"])
+
+    except Exception:
+        # thinkタグが出力されるReasoningモデル用に、thinkタグを除去する
+        thinking_removed = re.sub(
+            r"<think\b[^>]*>.*?</think>",
+            "",
+            response_text,
+            flags=re.DOTALL,
+        )
+
+        with open(path, "w") as file:
+            file.write(thinking_removed)
+8:[["$","$L13",null,{}],["$","$L14",null,{"className":"container","mt":"8","children":[["$","$L14",null,{"mx":"auto","maxW":"750px","mb":8,"children":[["$","$L15",null,{"textAlign":"left","fontSize":"xl","mb":5,"children":"レポート"}],["$","$L15",null,{"as":"h2","size":"4xl","mb":2,"className":"headingColor","children":"自分が市長なら、2040年こんなまちを目指したい"}],["$","$L16",null,{"fontWeight":"bold","fontSize":"xl","mb":2,"children":[["$","$L17",null,{"mr":1,"children":["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":20,"height":20,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-messages-square","children":[["$","path","p1xzt8",{"d":"M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2z"}],["$","path","1cx29u",{"d":"M18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1"}],"$undefined"]}]}],"26","件"]}],["$","p",null,{"children":"世代を超えた共生社会の実現には、出生率向上や地域活性化が重要であり、新幹線整備が経済を促進する期待があります。医療インフラの充実と産業の多様化が地域の健康と魅力を高め、特に河川環境の改善が求められています。舞鶴では医療サービスの不足が指摘され、専門家の招致や地域交流の場の提供が必要とされています。また、公共交通機関の整備が、移動の自由を確保するために重要です。"}]]}],["$","$L18",null,{"result":{"arguments":[{"arg_id":"Acsv-1_0","argument":"差別がなく、誰もが安心して暮らせるまちを目指すべき","x":-2.1134837,"y":15.270998,"p":0,"cluster_ids":["0","1_3","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-2_0","argument":"医療が充実したまちであるべき","x":-3.0337,"y":13.120823,"p":0,"cluster_ids":["0","1_2","2_2"],"attributes":null,"url":null},{"arg_id":"Acsv-2_1","argument":"舞鶴では歯医者の予約が取りにくい","x":-4.380366,"y":13.164002,"p":0,"cluster_ids":["0","1_1","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-2_2","argument":"舞鶴では手術のために都会の病院に行く必要が多い","x":-4.099326,"y":13.54506,"p":0,"cluster_ids":["0","1_1","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-3_0","argument":"子供たちに様々な選択肢を増やせる街を作るべきである。","x":-2.6140473,"y":14.451518,"p":0,"cluster_ids":["0","1_3","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-4_0","argument":"舞鶴で活躍するスポーツ、芸術、医療等の分野の人々を招き入れるべき","x":-4.973494,"y":13.639745,"p":0,"cluster_ids":["0","1_1","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-4_1","argument":"「この人がいるから舞鶴に来た」と言われるような町作りを目指すべき","x":-3.9782488,"y":14.364701,"p":0,"cluster_ids":["0","1_1","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-6_0","argument":"どの世代の方でも一緒に何かができたり取り組んだりすることに抵抗がないまちを目指すべき","x":-2.9100466,"y":15.454859,"p":0,"cluster_ids":["0","1_3","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-6_1","argument":"2040年には、昔はこんなんだったねと笑い飛ばせるようなまちにしたい","x":-3.3072035,"y":15.289714,"p":0,"cluster_ids":["0","1_3","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-8_0","argument":"若狭山陰で人口最大都市30万人を目指すべきである。","x":-1.0248054,"y":14.8476,"p":0,"cluster_ids":["0","1_3","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-8_1","argument":"人口減少や商店街の衰退を解決し、活気ある街を作る必要がある。","x":-1.9520333,"y":14.241687,"p":0,"cluster_ids":["0","1_3","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-8_2","argument":"河川の環境を改善し、清潔で魅力的な街にするべきである。","x":-2.1622174,"y":13.72253,"p":0,"cluster_ids":["0","1_2","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-8_3","argument":"人口、企業、税収を増やし、日本海側の拠点となる街を目指すべきである。","x":-1.3304101,"y":14.55984,"p":0,"cluster_ids":["0","1_3","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-8_4","argument":"新幹線を小浜で南下させるのではなく、山陰新幹線に繋がるような都市計画が必要である。","x":-1.169763,"y":14.196781,"p":0,"cluster_ids":["0","1_3","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-9_0","argument":"困った時は舞鶴に行けばなんとかなる","x":-4.540084,"y":13.5838585,"p":0,"cluster_ids":["0","1_1","2_7"],"attributes":null,"url":null},{"arg_id":"Acsv-10_0","argument":"観光以外の産業も充実させるべき","x":-2.3233895,"y":12.812611,"p":0,"cluster_ids":["0","1_2","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-10_1","argument":"市内企業が都市部の企業と戦える競争力を持つまちを目指すべき","x":-0.715346,"y":14.110294,"p":0,"cluster_ids":["0","1_3","2_0"],"attributes":null,"url":null},{"arg_id":"Acsv-11_0","argument":"街に草が生えていると寂れた印象を与え、観光客に良い印象を与えないと思う。","x":-2.3546257,"y":13.368529,"p":0,"cluster_ids":["0","1_2","2_5"],"attributes":null,"url":null},{"arg_id":"Acsv-11_1","argument":"市民一人ひとりが自分の住んでいる家の周りの草やゴミに気を付けるよう呼びかけたい。","x":-2.8252375,"y":13.86214,"p":0,"cluster_ids":["0","1_3","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-12_0","argument":"子どもたち、家族、高齢者が安心して暮らせる街を作るべき","x":-2.280926,"y":14.926284,"p":0,"cluster_ids":["0","1_3","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-12_1","argument":"子どもたちが感性豊かに育つ街を目指すべき","x":-2.7211587,"y":14.872414,"p":0,"cluster_ids":["0","1_3","2_4"],"attributes":null,"url":null},{"arg_id":"Acsv-13_0","argument":"舞鶴は車を持っていない若者や高齢者が自由に動けるまちであるべき","x":-4.618009,"y":14.095947,"p":0,"cluster_ids":["0","1_1","2_3"],"attributes":null,"url":null},{"arg_id":"Acsv-13_1","argument":"少子高齢化が進む日本において、出生率が2を超えるまちを目指すべき","x":-1.6291609,"y":15.180341,"p":0,"cluster_ids":["0","1_3","2_8"],"attributes":null,"url":null},{"arg_id":"Acsv-14_0","argument":"地域の方々と地域のテーマで夢や思いを語れる場所・時間を創るべきである。","x":-3.603202,"y":14.880203,"p":0,"cluster_ids":["0","1_1","2_1"],"attributes":null,"url":null},{"arg_id":"Acsv-15_0","argument":"さまざまな年代の人々が支え合い共存できる街を作るべきである。","x":-2.562039,"y":15.643372,"p":0,"cluster_ids":["0","1_3","2_6"],"attributes":null,"url":null},{"arg_id":"Acsv-16_0","argument":"雨が多いことを楽しめる街は、近郊移住に最適である。","x":-1.704629,"y":13.424599,"p":0,"cluster_ids":["0","1_2","2_5"],"attributes":null,"url":null}],"clusters":[{"level":0,"id":"0","label":"全体","takeaway":"","value":26,"parent":"","density_rank_percentile":0},{"level":1,"id":"1_3","label":"世代を超えた共生と活力ある地域づくりの推進","takeaway":"すべての世代が安心して暮らせる共生社会を実現するために、出生率の向上や子供たちの成長を支える環境の整備が求められています。また、地域の美化や活性化を通じて、人口減少や商店街の衰退に対処し、活気ある街を目指す姿勢が重要です。さらに、新幹線整備を通じた経済活性化や、異なる年代の人々が支え合うコミュニティの創造が、地域の発展に寄与することが期待されています。","value":14,"parent":"0","density_rank_percentile":1},{"level":1,"id":"1_2","label":"地域の健康と魅力を高めるための医療インフラと産業振興","takeaway":"地域社会の健康を守るためには、医療サービスの充実が不可欠です。医療インフラの整備やアクセス向上を通じて、住民の健康を促進することが求められています。また、雨が多い地域の特性を活かし、観光以外の産業を多様化させることで、魅力的で清潔な街づくりを目指すべきです。具体的には、河川環境の改善や街の景観向上に向けた施策が重要であり、これにより地域の印象を良くし、近郊移住を促進することが期待されています。","value":5,"parent":"0","density_rank_percentile":0.3333333333333333},{"level":1,"id":"1_1","label":"舞鶴の地域活性化と医療アクセス改善に向けた取り組み","takeaway":"舞鶴における医療サービスの不足や予約の取りにくさに対する不満があり、地域の医療環境を改善するために外部からの専門家やリソースを招く必要性が強調されています。また、地域の人々が集まり夢や思いを語り合う場を提供することで、地域の魅力を引き出し、訪れる人々にとって特別な存在となることを目指しています。さらに、車を持たない若者や高齢者が自由に移動できる環境を整えるため、公共交通機関の充実や歩行者に優しいインフラの整備が求められています。","value":7,"parent":"0","density_rank_percentile":0.6666666666666666},{"level":2,"id":"2_8","label":"誰もが安心して暮らせる共生社会の実現","takeaway":"この意見グループは、差別のない社会を目指し、すべての人々が安心して暮らせる環境の重要性を強調しています。また、少子高齢化に対する具体的な対策として、出生率の向上や子どもや高齢者が安心して生活できる街づくりの必要性が述べられています。","value":3,"parent":"1_3","density_rank_percentile":0.4444444444444444},{"level":2,"id":"2_2","label":"医療インフラの充実と地域の健康促進","takeaway":"この意見は、地域社会における医療サービスの充実を求めるものであり、住民の健康を守るための医療インフラの整備やアクセスの向上が重要であるという考えが中心です。","value":1,"parent":"1_2","density_rank_percentile":0.1111111111111111},{"level":2,"id":"2_7","label":"舞鶴における医療アクセスの課題と地域活性化の必要性","takeaway":"この意見グループは、舞鶴における医療サービスの不足や予約の取りにくさに対する不満が中心であり、さらに地域の医療環境を改善するために、外部からの専門家やリソースを招き入れる必要性が強調されています。","value":4,"parent":"1_1","density_rank_percentile":0.6666666666666666},{"level":2,"id":"2_4","label":"子供たちの成長を支える活気ある街づくり","takeaway":"この意見グループは、子供たちの選択肢を増やし、感性豊かに育つ環境を提供することを重視しています。また、市民の意識を高め、地域の美化や活性化を図ることで、人口減少や商店街の衰退といった課題に対処し、全体として活気ある街を目指す必要性が強調されています。","value":4,"parent":"1_3","density_rank_percentile":1},{"level":2,"id":"2_1","label":"地域の魅力を引き出すコミュニティ形成","takeaway":"この意見グループは、舞鶴の地域づくりにおいて、地域の人々が集まり、夢や思いを語り合う場を提供することの重要性を強調しています。地域の魅力を引き出し、訪れる人々にとっての特別な存在となることを目指す姿勢が見受けられます。","value":2,"parent":"1_1","density_rank_percentile":0.5555555555555556},{"level":2,"id":"2_6","label":"世代共生型コミュニティの創造","takeaway":"この意見グループは、異なる年代の人々が互いに支え合い、共存できる街づくりの重要性を強調しています。世代を超えた交流や協力を促進し、未来に向けて笑い合えるようなコミュニティを目指す姿勢が見受けられます。","value":3,"parent":"1_3","density_rank_percentile":0.3333333333333333},{"level":2,"id":"2_0","label":"若狭山陰地域の発展と新幹線整備による経済活性化","takeaway":"この意見グループは、新幹線のルート変更を通じて若狭山陰地域の都市計画を見直し、人口や企業の増加を目指すべきという提案が中心です。特に、30万人規模の人口を持つ都市を目指し、日本海側の経済拠点としての競争力を高めることが重要視されています。","value":4,"parent":"1_3","density_rank_percentile":0.7777777777777778},{"level":2,"id":"2_5","label":"雨を楽しむ魅力的な街づくりと産業の多様化","takeaway":"この意見グループは、雨が多い地域の特性を活かしつつ、河川環境の改善や観光以外の産業の充実を通じて、魅力的で清潔な街を目指すべきという考えが中心です。また、街の景観や印象を良くするための具体的な施策についても言及されています。","value":4,"parent":"1_2","density_rank_percentile":0.8888888888888888},{"level":2,"id":"2_3","label":"車を持たない人々のための移動の自由を実現するまちづくり","takeaway":"この意見は、舞鶴が車を持たない若者や高齢者にとっても自由に移動できる環境を整えるべきであるという考えを示しています。公共交通機関の充実や歩行者に優しいインフラの整備が求められ、地域の誰もがアクセスしやすいまちづくりの重要性が強調されています。","value":1,"parent":"1_1","density_rank_percentile":0.2222222222222222}],"comments":{},"propertyMap":{},"translations":{},"overview":"世代を超えた共生社会の実現には、出生率向上や地域活性化が重要であり、新幹線整備が経済を促進する期待があります。医療インフラの充実と産業の多様化が地域の健康と魅力を高め、特に河川環境の改善が求められています。舞鶴では医療サービスの不足が指摘され、専門家の招致や地域交流の場の提供が必要とされています。また、公共交通機関の整備が、移動の自由を確保するために重要です。","config":{"name":"826b5c86-2a66-4972-a514-d2c45460cb05","input":"826b5c86-2a66-4972-a514-d2c45460cb05","question":"自分が市長なら、2040年こんなまちを目指したい","intro":"誰もが安心して暮らせるまち。道端にごみがないきれいなまち。アートが身近なまち\n分析対象となったデータの件数は16件で、これらのデータに対してOpenAI API (gpt-4o-mini)を用いて26件の意見（議論）を抽出し、クラスタリングを行った。\n","model":"gpt-4o-mini","provider":"openai","is_pubcom":true,"is_embedded_at_local":false,"local_llm_address":null,"extraction":{"prompt":"あなたは専門的なリサーチアシスタントです。与えられたテキストから、意見を抽出して整理してください。\n\n# 指示\n* 入出力の例に記載したような形式で文字列のリストを返してください\n  * 必要な場合は2つの別個の意見に分割してください。多くの場合は1つの議論にまとめる方が望ましいです。\n* 整理した意見は日本語で出力してください\n\n## 入出力の例\n/human\n\nAIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\"\n  ]\n}\n\n/human\n\nAIの能力、限界、倫理的考慮事項について、市民を教育する必要がある。また、教育できる人材を養成する必要がある。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIの能力、限界、倫理的考慮事項について、市民を教育すべき\",\n    \"AIに関する教育をできる人材を養成すべき\"\n  ]\n}\n\n/human\n\nAIはエネルギーグリッドを最適化し、無駄や炭素排出を削減できます。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIはエネルギーグリッドを最適化して炭素排出を削減できる\"\n  ]\n}\n","workers":30,"limit":16,"properties":[],"categories":{},"category_batch_size":5,"source_code":"$19","model":"gpt-4o-mini"},"hierarchical_clustering":{"cluster_nums":[3,9],"source_code":"$1a"},"hierarchical_initial_labelling":{"prompt":"あなたはKJ法が得意なデータ分析者です。userのinputはグループに集まったラベルです。なぜそのラベルが一つのグループであるか解説し、表札（label）をつけてください。\n表札については、グループ内の具体的な論点や特徴を反映した、具体性の高い名称を考案してください。\n出力はJSONとし、フォーマットは以下のサンプルを参考にしてください。\n\n\n# サンプルの入出力\n## 入力例\n- 手作業での意見分析は時間がかかりすぎる。AIで効率化できると嬉しい\n- 今のやり方だと分析に工数がかかりすぎるけど、AIならコストをかけずに分析できそう\n- AIが自動で意見を整理してくれると楽になって嬉しい\n\n\n## 出力例\n{\n    \"label\": \"AIによる業務効率の大幅向上とコスト効率化\",\n    \"description\": \"この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$1b","model":"gpt-4o-mini"},"hierarchical_merge_labelling":{"prompt":"あなたはデータ分析のエキスパートです。\n現在、テキストデータの階層クラスタリングを行っています。\n下層のクラスタ（意見グループ）のタイトルと説明、およびそれらのクラスタが所属する上層のクラスタのテキストのサンプルを与えるので、上層のクラスタのタイトルと説明を作成してください。\n\n# 指示\n- 統合後のクラスタ名は、統合前のクラスタ名称をそのまま引用せず、内容に基づいた新たな名称にしてください。\n- タイトルには、具体的な事象・行動（例：地域ごとの迅速対応、復興計画の着実な進展、効果的な情報共有・地域協力など）を含めてください\n  - 可能な限り具体的な表現を用いるようにし、抽象的な表現は避けてください\n    - 「多様な意見」などの抽象的な表現は避けてください\n- 出力例に示したJSON形式で出力してください\n\n\n# サンプルの入出力\n## 入力例\n- 「顧客フィードバックの自動集約」: この意見グループは、SNSやオンラインレビューなどから集めた大量の意見をAIが瞬時に解析し、企業が市場のトレンドや顧客の要望を即時に把握できる点についての期待を示しています。\n- 「AIによる業務効率の大幅向上とコスト効率化」: この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\n\n## 出力例\n{\n    \"label\": \"AI技術の導入による意見分析の効率化への期待\",\n    \"description\": \"大量の意見やフィードバックから迅速に洞察を抽出できるため、企業や自治体が消費者や市民の声を的確に把握し、戦略的な意思決定やサービス改善が可能になります。また、従来の手法と比べて作業負荷が軽減され、業務効率の向上やコスト削減といった実際の便益が得られると期待されています。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$1c","model":"gpt-4o-mini"},"hierarchical_overview":{"prompt":"/system \n\nあなたはシンクタンクで働く専門のリサーチアシスタントです。\nチームは特定のテーマに関してパブリック・コンサルテーションを実施し、異なる選択肢の意見グループを分析し始めています。\nこれから意見グループのリストとその簡単な分析が提供されます。\nあなたの仕事は、調査結果の簡潔な要約を返すことです。要約は非常に簡潔に（最大で1段落、最大4文）まとめ、無意味な言葉を避けてください。\n出力は日本語で行ってください。\n","source_code":"$1d","model":"gpt-4o-mini"},"hierarchical_aggregation":{"sampling_num":30,"hidden_properties":{},"source_code":"$1e"},"enable_source_link":false,"output_dir":"826b5c86-2a66-4972-a514-d2c45460cb05","skip-interaction":true,"without-html":true,"embedding":{"model":"text-embedding-3-small","source_code":"$1f"},"hierarchical_visualization":{"replacements":[],"source_code":"import subprocess\n\n\ndef hierarchical_visualization(config):\n    output_dir = config[\"output_dir\"]\n    cwd = \"../report\"\n    command = f\"REPORT={output_dir} npm run build\"\n\n    try:\n        process = subprocess.Popen(\n            command,\n            shell=True,\n            cwd=cwd,\n            stdout=subprocess.PIPE,\n            stderr=subprocess.PIPE,\n            universal_newlines=True,\n        )\n        while True:\n            output_line = process.stdout.readline()\n            if output_line == \"\" and process.poll() is not None:\n                break\n            if output_line:\n                print(output_line.strip())\n        process.wait()\n        errors = process.stderr.read()\n        if errors:\n            print(\"Errors:\")\n            print(errors)\n    except subprocess.CalledProcessError as e:\n        print(\"Error: \", e)\n"},"plan":[{"step":"extraction","run":true,"reason":"not trace of previous run"},{"step":"embedding","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_clustering","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_initial_labelling","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_merge_labelling","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_overview","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_aggregation","run":true,"reason":"not trace of previous run"},{"step":"hierarchical_visualization","run":false,"reason":"skipping html output"}],"status":"running","start_time":"2026-01-18T10:50:52.862150","completed_jobs":[{"step":"extraction","completed":"2026-01-18T10:50:56.341980","duration":3.410957,"params":{"prompt":"あなたは専門的なリサーチアシスタントです。与えられたテキストから、意見を抽出して整理してください。\n\n# 指示\n* 入出力の例に記載したような形式で文字列のリストを返してください\n  * 必要な場合は2つの別個の意見に分割してください。多くの場合は1つの議論にまとめる方が望ましいです。\n* 整理した意見は日本語で出力してください\n\n## 入出力の例\n/human\n\nAIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIテクノロジーは、そのライフサイクル全体における環境負荷を削減することに焦点を当てて開発されるべきです。\"\n  ]\n}\n\n/human\n\nAIの能力、限界、倫理的考慮事項について、市民を教育する必要がある。また、教育できる人材を養成する必要がある。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIの能力、限界、倫理的考慮事項について、市民を教育すべき\",\n    \"AIに関する教育をできる人材を養成すべき\"\n  ]\n}\n\n/human\n\nAIはエネルギーグリッドを最適化し、無駄や炭素排出を削減できます。\n\n/ai\n\n{\n  \"extractedOpinionList\": [\n    \"AIはエネルギーグリッドを最適化して炭素排出を削減できる\"\n  ]\n}\n","workers":30,"limit":16,"properties":[],"categories":{},"category_batch_size":5,"source_code":"$20","model":"gpt-4o-mini"},"token_usage":8352},{"step":"embedding","completed":"2026-01-18T10:50:57.707358","duration":1.359087,"params":{"model":"text-embedding-3-small","source_code":"$21"},"token_usage":0},{"step":"hierarchical_clustering","completed":"2026-01-18T10:59:36.774442","duration":519.058315,"params":{"cluster_nums":[3,9],"source_code":"$22"},"token_usage":0},{"step":"hierarchical_initial_labelling","completed":"2026-01-18T10:59:39.916617","duration":3.135096,"params":{"prompt":"あなたはKJ法が得意なデータ分析者です。userのinputはグループに集まったラベルです。なぜそのラベルが一つのグループであるか解説し、表札（label）をつけてください。\n表札については、グループ内の具体的な論点や特徴を反映した、具体性の高い名称を考案してください。\n出力はJSONとし、フォーマットは以下のサンプルを参考にしてください。\n\n\n# サンプルの入出力\n## 入力例\n- 手作業での意見分析は時間がかかりすぎる。AIで効率化できると嬉しい\n- 今のやり方だと分析に工数がかかりすぎるけど、AIならコストをかけずに分析できそう\n- AIが自動で意見を整理してくれると楽になって嬉しい\n\n\n## 出力例\n{\n    \"label\": \"AIによる業務効率の大幅向上とコスト効率化\",\n    \"description\": \"この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$23","model":"gpt-4o-mini"},"token_usage":6451},{"step":"hierarchical_merge_labelling","completed":"2026-01-18T10:59:43.554801","duration":3.627146,"params":{"prompt":"あなたはデータ分析のエキスパートです。\n現在、テキストデータの階層クラスタリングを行っています。\n下層のクラスタ（意見グループ）のタイトルと説明、およびそれらのクラスタが所属する上層のクラスタのテキストのサンプルを与えるので、上層のクラスタのタイトルと説明を作成してください。\n\n# 指示\n- 統合後のクラスタ名は、統合前のクラスタ名称をそのまま引用せず、内容に基づいた新たな名称にしてください。\n- タイトルには、具体的な事象・行動（例：地域ごとの迅速対応、復興計画の着実な進展、効果的な情報共有・地域協力など）を含めてください\n  - 可能な限り具体的な表現を用いるようにし、抽象的な表現は避けてください\n    - 「多様な意見」などの抽象的な表現は避けてください\n- 出力例に示したJSON形式で出力してください\n\n\n# サンプルの入出力\n## 入力例\n- 「顧客フィードバックの自動集約」: この意見グループは、SNSやオンラインレビューなどから集めた大量の意見をAIが瞬時に解析し、企業が市場のトレンドや顧客の要望を即時に把握できる点についての期待を示しています。\n- 「AIによる業務効率の大幅向上とコスト効率化」: この意見グループは、従来の手作業による意見分析と比較して、AIによる自動化で分析プロセスが効率化され、作業時間の短縮や運用コストの効率化が実現される点に対する前向きな評価が中心です。\n\n## 出力例\n{\n    \"label\": \"AI技術の導入による意見分析の効率化への期待\",\n    \"description\": \"大量の意見やフィードバックから迅速に洞察を抽出できるため、企業や自治体が消費者や市民の声を的確に把握し、戦略的な意思決定やサービス改善が可能になります。また、従来の手法と比べて作業負荷が軽減され、業務効率の向上やコスト削減といった実際の便益が得られると期待されています。\"\n}\n","sampling_num":30,"workers":30,"source_code":"$24","model":"gpt-4o-mini"},"token_usage":4564},{"step":"hierarchical_overview","completed":"2026-01-18T10:59:47.094287","duration":3.522241,"params":{"prompt":"/system \n\nあなたはシンクタンクで働く専門のリサーチアシスタントです。\nチームは特定のテーマに関してパブリック・コンサルテーションを実施し、異なる選択肢の意見グループを分析し始めています。\nこれから意見グループのリストとその簡単な分析が提供されます。\nあなたの仕事は、調査結果の簡潔な要約を返すことです。要約は非常に簡潔に（最大で1段落、最大4文）まとめ、無意味な言葉を避けてください。\n出力は日本語で行ってください。\n","source_code":"$25","model":"gpt-4o-mini"},"token_usage":938}],"total_token_usage":20305,"token_usage_input":17756,"token_usage_output":2549,"lock_until":"2026-01-18T11:04:47.103605","current_job":"hierarchical_aggregation","current_job_started":"2026-01-18T10:59:47.103586","estimated_cost":0.0041928,"current_job_progress":null,"current_jop_tasks":null},"comment_num":16,"visibility":"public"}}],"$L26","$L27","$L28","$L29"]}],"$L2a"]
+c:{"metadata":[["$","title","0",{"children":"自分が市長なら、2040年こんなまちを目指したい - 名前未設定ユーザー"}],["$","meta","1",{"name":"description","content":"世代を超えた共生社会の実現には、出生率向上や地域活性化が重要であり、新幹線整備が経済を促進する期待があります。医療インフラの充実と産業の多様化が地域の健康と魅力を高め、特に河川環境の改善が求められています。舞鶴では医療サービスの不足が指摘され、専門家の招致や地域交流の場の提供が必要とされています。また、公共交通機関の整備が、移動の自由を確保するために重要です。"}],["$","meta","2",{"property":"og:title","content":"自分が市長なら、2040年こんなまちを目指したい - 名前未設定ユーザー"}],["$","meta","3",{"property":"og:description","content":"世代を超えた共生社会の実現には、出生率向上や地域活性化が重要であり、新幹線整備が経済を促進する期待があります。医療インフラの充実と産業の多様化が地域の健康と魅力を高め、特に河川環境の改善が求められています。舞鶴では医療サービスの不足が指摘され、専門家の招致や地域交流の場の提供が必要とされています。また、公共交通機関の整備が、移動の自由を確保するために重要です。"}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/826b5c86-2a66-4972-a514-d2c45460cb05/opengraph-image.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"自分が市長なら、2040年こんなまちを目指したい - 名前未設定ユーザー"}],["$","meta","7",{"name":"twitter:description","content":"世代を超えた共生社会の実現には、出生率向上や地域活性化が重要であり、新幹線整備が経済を促進する期待があります。医療インフラの充実と産業の多様化が地域の健康と魅力を高め、特に河川環境の改善が求められています。舞鶴では医療サービスの不足が指摘され、専門家の招致や地域交流の場の提供が必要とされています。また、公共交通機関の整備が、移動の自由を確保するために重要です。"}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/826b5c86-2a66-4972-a514-d2c45460cb05/opengraph-image.png"}]],"error":null,"digest":"$undefined"}
+11:"$c:metadata"
+2b:I[49985,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Analysis"]
+2c:I[68443,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Separator"]
+2e:I[27787,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"Footer"]
+26:["$","$L2b",null,{"result":"$8:1:props:children:1:props:result"}]
+27:["$","$L14",null,{"w":"fit-content","mx":"auto","children":["$","$L6",null,{"href":"/","children":["$","$L7",null,{"variant":"outline","size":"md","children":[["$","svg",null,{"ref":"$undefined","xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-chevron-left","children":[["$","path","1wnfg3",{"d":"m15 18-6-6 6-6"}],"$undefined"]}],"一覧へ戻る"]}]}]}]
+28:["$","$L2c",null,{"my":12,"maxW":"750px","mx":"auto"}]
+29:["$","$L14",null,{"maxW":"750px","mx":"auto","mb":24,"children":"$L2d"}]
+2a:["$","$L2e",null,{"meta":{"reporter":"名前未設定ユーザー","message":"レポーター情報が未設定です。レポート作成者がメタデータをセットアップすることでレポーター情報が表示されます。","webLink":null,"privacyLink":null,"termsLink":null,"brandColor":"#2577B1","isDefault":true}}]
+2f:I[24982,["150","static/chunks/59650de3-92bcb3811df53909.js","771","static/chunks/771-6df7383af9cb22cb.js","302","static/chunks/302-413e4f1ef39e273a.js","732","static/chunks/732-1930f1f7bd6746a5.js","619","static/chunks/619-f072ac750404f9da.js","909","static/chunks/909-bd7065f932bc006d.js","13","static/chunks/13-f12e2db1f59fda05.js","785","static/chunks/785-90bb983d5bf6562b.js","767","static/chunks/767-f47b7612d5cd632d.js","347","static/chunks/347-544cffd195e8f4e1.js","182","static/chunks/app/%5Bslug%5D/page-5dc97d82915a1506.js"],"ReporterContent"]
+2d:["$","$L2f",null,{"meta":"$2a:props:meta","children":"$L30"}]
+30:null
